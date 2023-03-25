@@ -5,6 +5,34 @@
     <link>https://bigsmooth68.github.io/tags/</link>
     <description>Recent content in Tags on Mon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bigsmooth68.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Mar 2023 16:56:31 +0100</lastBuildDate><atom:link href="https://bigsmooth68.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://bigsmooth68.github.io/tags/about/</link>
+      <pubDate>Sat, 25 Mar 2023 16:56:31 +0100</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://bigsmooth68.github.io/tags/hugo/</link>
+      <pubDate>Sat, 25 Mar 2023 16:55:39 +0100</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSG</title>
+      <link>https://bigsmooth68.github.io/tags/ssg/</link>
+      <pubDate>Sat, 25 Mar 2023 16:55:39 +0100</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/tags/ssg/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

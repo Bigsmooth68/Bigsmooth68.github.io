@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mon Blog</title>
-    <link>https://bigsmooth68.github.io/</link>
-    <description>Recent content on Mon Blog</description>
+    <title>Hugo on Mon Blog</title>
+    <link>https://bigsmooth68.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Mon Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Mar 2023 16:56:31 +0100</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Propos</title>
-      <link>https://bigsmooth68.github.io/about/</link>
-      <pubDate>Sat, 25 Mar 2023 16:56:31 +0100</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/about/</guid>
-      <description>Ceci est un blog qui parle des sujets que j&amp;rsquo;ai envie de partager, des chaînes youtube que je suis, &amp;hellip;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 25 Mar 2023 16:55:39 +0100</lastBuildDate><atom:link href="https://bigsmooth68.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Créer un Blog sur github.io</title>
       <link>https://bigsmooth68.github.io/posts/cr%C3%A9er_un_blog_sur_github.io/</link>
