@@ -13,7 +13,10 @@
       <pubDate>Sat, 25 Mar 2023 16:56:31 +0100</pubDate>
       
       <guid>https://bigsmooth68.github.io/about/about/</guid>
-      <description>Ceci est un blog qui parle des sujets que j&amp;rsquo;ai envie de partager, des chaînes youtube que je suis, &amp;hellip;</description>
+      <description>Ceci est un blog qui parle des sujets que j&amp;rsquo;ai envie de partager, des chaînes youtube que je suis, &amp;hellip;
+Je ne souhaitais pas faire un blog classique à la façon WordProcess et je suis tombé sur ce principe très intéressant: Static site generator.
+Hugo fait partie de cette mouvance.
+Cela libère aussi des difficultés possibles de l&amp;rsquo;hébergement comme le site est directement sur github.</description>
     </item>
     
   </channel>
