@@ -124,7 +124,7 @@
     },
     "datePublished": "2023-03-25",
     "description": "",
-    "wordCount":  105 ,
+    "wordCount":  180 ,
     "mainEntityOfPage": "True",
     "dateModified": "2023-03-25",
     "image": {
@@ -375,8 +375,8 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     
 </div>
 
-  <p>Créer un repo BlogSources.</p>
-<p>Créer un repo Bigsmooth68.github.io. Activer github pages pour ce repo.</p>
+  <p>Créer deux repo: BlogSources et Bigsmooth68.github.io. Activer github pages pour ce dernier.</p>
+<p>Dans le répertoire de son choix, créer le nouveau site avec la commande hugo (le binaire d&rsquo;hugo doit être installé au préalable avec, par exemple, chocolatey: <code>choco install hugo</code>).</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new site BlogSources
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git init
 </span></span><span style="display:flex;"><span>git add .
@@ -384,24 +384,27 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 </span></span><span style="display:flex;"><span>git branch -M main
 </span></span><span style="display:flex;"><span>git remote add origin https://github.com/Bigsmooth68/BlogSources.git
 </span></span><span style="display:flex;"><span>git push -u origin main
-</span></span></code></pre></div><p>.gitignore file:</p>
+</span></span></code></pre></div><p>Créer un fichier <code>.gitignore</code> à l&rsquo;aide de toptal.com gitignore:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>https://www.toptal.com/developers/gitignore/api/visualstudiocode,hugo
-</span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone https://github.com/lukeorth/poison.git themes/poison --depth<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>
-</span></span></code></pre></div><p>Mettre à config.toml (notamment le thème). Lien <a href="https://github.com/Bigsmooth68/BlogSources/blob/main/config.toml">ici</a>.</p>
+</span></span></code></pre></div><p>Cloner le repo du thème de son choix:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone https://github.com/lukeorth/poison.git themes/poison --depth<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>
+</span></span></code></pre></div><p>Mettre à jour le <code>config.toml</code> (notamment le thème). Lien <a href="https://github.com/Bigsmooth68/BlogSources/blob/main/config.toml">ici</a>.</p>
 <p>Ajouter le repo github dans <code>public</code>:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git submodule add -f https://github.com/Bigsmooth68/Bigsmooth68.github.io public
 </span></span></code></pre></div><p>Générer le site:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo -t poison
-</span></span></code></pre></div><p>Ajouter le code généré dans le repo</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd public
-</span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#39;Initial commit&#39;</span>
-</span></span><span style="display:flex;"><span>git push
 </span></span></code></pre></div><p>Ajouter l&rsquo;about:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>hugo new page/about.md
 </span></span></code></pre></div><p>Ajouter un post:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>mkdir blog
 </span></span><span style="display:flex;"><span>hugo new posts/créer_un_blog_sur_github.io.md
-</span></span></code></pre></div>
+</span></span></code></pre></div><p>Ajouter le code généré dans le repo:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd public
+</span></span><span style="display:flex;"><span>git commit -m <span style="color:#e6db74">&#39;Initial commit&#39;</span>
+</span></span><span style="display:flex;"><span>git push
+</span></span></code></pre></div><p>Patienter quelques secondes que le pipeline mettent à jour le contenu &hellip;</p>
+<p><em>Référence</em>: <a href="https://www.youtube.com/watch?v=LSJ5S8VG5aU">Creating a Free Blog or Static Content Website with Hugo and GitHub Pages with Custom Domain and Ads</a></p>
+
   <hr>
 <div class="footer">
     
