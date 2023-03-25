@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bigsmooth68.github.io/tags/about/</loc>
+    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+  </url><url>
     <loc>https://bigsmooth68.github.io/about/</loc>
     <lastmod>2023-03-25T16:56:31+01:00</lastmod>
   </url><url>
-    <loc>https://bigsmooth68.github.io/tags/about/</loc>
+    <loc>https://bigsmooth68.github.io/about/about/</loc>
     <lastmod>2023-03-25T16:56:31+01:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
