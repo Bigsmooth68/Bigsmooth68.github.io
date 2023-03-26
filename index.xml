@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mon Blog</title>
+    <title>Mon blogue</title>
     <link>https://bigsmooth68.github.io/</link>
-    <description>Recent content on Mon Blog</description>
+    <description>Recent content on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr</language>
     <lastBuildDate>Sat, 25 Mar 2023 16:56:31 +0100</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -15,7 +15,7 @@
       <guid>https://bigsmooth68.github.io/about/about/</guid>
       <description>Ceci est un blog qui parle des sujets que j&amp;rsquo;ai envie de partager, des chaînes youtube que je suis, &amp;hellip;
 Je ne souhaitais pas faire un blog classique à la façon WordProcess et je suis tombé sur ce principe très intéressant: Static site generator.
-Hugo fait partie de cette mouvance.
+Hugo fait parti de cette mouvance.
 Cela libère aussi des difficultés possibles de l&amp;rsquo;hébergement comme le site est directement sur github.</description>
     </item>
     
@@ -28,6 +28,24 @@ Cela libère aussi des difficultés possibles de l&amp;rsquo;hébergement comme 
       <description>Créer deux repo: BlogSources et Bigsmooth68.github.io. Activer github pages pour ce dernier.
 Dans le répertoire de son choix, créer le nouveau site avec la commande hugo (le binaire d&amp;rsquo;hugo doit être installé au préalable avec, par exemple, chocolatey: choco install hugo).
 hugo new site BlogSources git init git add . git commit -m &amp;#34;first commit&amp;#34; git branch -M main git remote add origin https://github.com/Bigsmooth68/BlogSources.git git push -u origin main Créer un fichier .</description>
+    </item>
+    
+    <item>
+      <title>Supervision de WildFly dans Prometheus</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</link>
+      <pubDate>Tue, 21 Mar 2023 16:40:03 +0200</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</guid>
+      <description>Lien vers le blog dbi services.</description>
+    </item>
+    
+    <item>
+      <title>OctoPerf Browsing Dynamique</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/octoperf-dynamic-browsing/</link>
+      <pubDate>Mon, 20 Mar 2023 12:48:03 +0200</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/octoperf-dynamic-browsing/</guid>
+      <description>Lien vers le blog dbi services.</description>
     </item>
     
   </channel>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prometheus on Mon blogue</title>
+    <link>https://bigsmooth68.github.io/tags/prometheus/</link>
+    <description>Recent content in Prometheus on Mon blogue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 21 Mar 2023 16:40:03 +0200</lastBuildDate><atom:link href="https://bigsmooth68.github.io/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supervision de WildFly dans Prometheus</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</link>
+      <pubDate>Tue, 21 Mar 2023 16:40:03 +0200</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</guid>
+      <description>Lien vers le blog dbi services.</description>
+    </item>
+    
+  </channel>
+</rss>

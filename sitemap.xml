@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://bigsmooth68.github.io/tags/about/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/about/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/about/about/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/posts/cr%C3%A9er_un_blog_sur_github.io/</loc>
-    <lastmod>2023-03-25T16:55:39+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/hugo/</loc>
-    <lastmod>2023-03-25T16:55:39+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/posts/</loc>
-    <lastmod>2023-03-25T16:55:39+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/ssg/</loc>
-    <lastmod>2023-03-25T16:55:39+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/series/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://bigsmooth68.github.io/fr/sitemap.xml</loc>
+    
+      <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://bigsmooth68.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
