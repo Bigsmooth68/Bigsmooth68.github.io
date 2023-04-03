@@ -6,7 +6,34 @@
     <description>Recent content on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 25 Mar 2023 16:56:31 +0100</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Tomcat Monitoring in Prometheus</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nginx Monitoring in Prometheus</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/nginx-monitoring-in-prometheus/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/nginx-monitoring-in-prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebLogic Monitoring in Prometheus</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/weblogic-monitoring-in-prometheus/</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/weblogic-monitoring-in-prometheus/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://bigsmooth68.github.io/about/about/</link>
@@ -30,20 +57,56 @@ Cela libère aussi des difficultés possibles de l&amp;rsquo;hébergement comme 
     </item>
     
     <item>
-      <title>Supervision de WildFly dans Prometheus</title>
+      <title>WildFly monitoring in Prometheus</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</link>
-      <pubDate>Tue, 21 Mar 2023 16:40:03 +0200</pubDate>
+      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>OctoPerf Browsing Dynamique</title>
+      <title>OctoPerf Dynamic Browsing</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/octoperf-dynamic-browsing/</link>
-      <pubDate>Mon, 20 Mar 2023 12:48:03 +0200</pubDate>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/octoperf-dynamic-browsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OctoPerf Load Testing</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/octoperf-performance-testing/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/octoperf-performance-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JBoss EAP Patching</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache JMeter Playground</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/apache-jmeter-playground/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/apache-jmeter-playground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patching WebLogic with Stack Patch Bundle (SPB)</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/patching-weblogic-with-stack-patch-bundle-spb/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/patching-weblogic-with-stack-patch-bundle-spb/</guid>
       <description></description>
     </item>
     

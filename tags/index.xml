@@ -43,50 +43,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Monitoring</title>
-      <link>https://bigsmooth68.github.io/tags/monitoring/</link>
-      <pubDate>Tue, 21 Mar 2023 16:40:03 +0200</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/tags/monitoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prometheus</title>
-      <link>https://bigsmooth68.github.io/tags/prometheus/</link>
-      <pubDate>Tue, 21 Mar 2023 16:40:03 +0200</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/tags/prometheus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WildFly</title>
-      <link>https://bigsmooth68.github.io/tags/wildfly/</link>
-      <pubDate>Tue, 21 Mar 2023 16:40:03 +0200</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/tags/wildfly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OctoPerf</title>
-      <link>https://bigsmooth68.github.io/tags/octoperf/</link>
-      <pubDate>Mon, 20 Mar 2023 12:48:03 +0200</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/tags/octoperf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test de Charge</title>
-      <link>https://bigsmooth68.github.io/tags/test-de-charge/</link>
-      <pubDate>Mon, 20 Mar 2023 12:48:03 +0200</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/tags/test-de-charge/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

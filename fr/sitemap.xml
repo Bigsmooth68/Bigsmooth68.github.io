@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bigsmooth68.github.io/tags/about/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bigsmooth68.github.io/about/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/about/about/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
-    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,6 +20,21 @@
                 hreflang="fr"
                 href="https://bigsmooth68.github.io/"
                 />
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/nginx-monitoring-in-prometheus/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/weblogic-monitoring-in-prometheus/</loc>
+    <lastmod>2023-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/tags/about/</loc>
+    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/about/</loc>
+    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/about/about/</loc>
+    <lastmod>2023-03-25T16:56:31+01:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/tags/</loc>
     <lastmod>2023-03-25T16:56:31+01:00</lastmod>
@@ -52,29 +64,23 @@
     <loc>https://bigsmooth68.github.io/tags/tutoriel/</loc>
     <lastmod>2023-03-25T16:55:39+01:00</lastmod>
   </url><url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2023-03-21T16:40:03+02:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/monitoring/</loc>
-    <lastmod>2023-03-21T16:40:03+02:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/prometheus/</loc>
-    <lastmod>2023-03-21T16:40:03+02:00</lastmod>
-  </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/wildfly-monitoring-in-prometheus/</loc>
-    <lastmod>2023-03-21T16:40:03+02:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/wildfly/</loc>
-    <lastmod>2023-03-21T16:40:03+02:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/tags/octoperf/</loc>
-    <lastmod>2023-03-20T12:48:03+02:00</lastmod>
+    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/octoperf-dynamic-browsing/</loc>
-    <lastmod>2023-03-20T12:48:03+02:00</lastmod>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bigsmooth68.github.io/tags/test-de-charge/</loc>
-    <lastmod>2023-03-20T12:48:03+02:00</lastmod>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/octoperf-performance-testing/</loc>
+    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</loc>
+    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-jmeter-playground/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/patching-weblogic-with-stack-patch-bundle-spb/</loc>
+    <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/series/</loc>
     <xhtml:link
