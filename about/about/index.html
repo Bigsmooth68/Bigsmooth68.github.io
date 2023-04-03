@@ -20,18 +20,6 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MHWFFCJS0T"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-MHWFFCJS0T', { 'anonymize_ip': false });
-}
-</script>
-
-
     
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
@@ -207,7 +195,8 @@ if (!doNotTrack) {
 </head>
 
     <body class="dark-theme">
-        <aside class="sidebar">
+        <div class="wrapper">
+            <aside class="sidebar">
     <div class="container sidebar-sticky">
         <div class="light-dark" align="right">
     <button class="btn-light-dark">
@@ -396,8 +385,8 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
   </div>
 </aside>
 
-        <main class="content container">
-            <div class="post">
+            <main class="content container">
+                <div class="post">
   <div class="info">
     <h1 class="post-title">
         <a href="https://bigsmooth68.github.io/about/about/">About</a>
@@ -439,12 +428,17 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
     
 </div>
 
+</div>
+            </main>
+            
   <div class="article-toc " >
-    <h4></h4>
-    <nav id="TableOfContents"></nav>
+    <div class="toc-wrapper">
+      <h4>Contents</h4>
+      <nav id="TableOfContents"></nav>
+    </div>
 </div>
 
-</div>
-        </main>
+
+        </div>
     </body>
 </html>
