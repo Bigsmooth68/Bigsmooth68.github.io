@@ -110,5 +110,149 @@ Cela libère aussi des difficultés possibles de l&amp;rsquo;hébergement comme 
       <description></description>
     </item>
     
+    <item>
+      <title>Docker Containers for Developers</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/containers-for-developers/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/containers-for-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcome jboss-cli Limitations with Ansible</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/overcome-jboss-cli-limitations-with-ansible/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/overcome-jboss-cli-limitations-with-ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JBoss EAP (and WildFly) cli Scripting via Ansible</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-and-wildfly-cli-scripting-via-ansible/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-and-wildfly-cli-scripting-via-ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tips to Develop a new Component on top of YaK Core</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/tips-to-develop-a-new-component-on-top-of-yak-core/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/tips-to-develop-a-new-component-on-top-of-yak-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add On-Premises Host in YaK Core</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/add-on-premises-host-in-yak-core/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/add-on-premises-host-in-yak-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RedHat JBoss EAP 8 is on the Way</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/redhat-jboss-eap-8-is-on-the-way/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/redhat-jboss-eap-8-is-on-the-way/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebLogic Licence Compliance and Out of Memory Errors</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/weblogic-licence-compliance-and-out-of-memory-errors/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/weblogic-licence-compliance-and-out-of-memory-errors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible: Imagination is the Limit</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/ansible-imagination-is-the-limit/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/ansible-imagination-is-the-limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is Variable Precedence in Ansible?</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/what-is-variable-precedence-in-ansible/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/what-is-variable-precedence-in-ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible URI module and WebLogic REST API</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/ansible-uri-module-and-weblogic-rest-api/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/ansible-uri-module-and-weblogic-rest-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Starting with Simple Ansible Playbooks</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/starting-with-simple-ansible-playbooks/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/starting-with-simple-ansible-playbooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use Ansible like a Programming Language</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/use-ansible-like-a-programming-language/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/use-ansible-like-a-programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Teams, Power Automate and Planner</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/microsoft-teams-power-automate-and-planner/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/microsoft-teams-power-automate-and-planner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scripting is not Just a Series of Commands</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/scripting-is-not-just-a-series-of-commands/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/scripting-is-not-just-a-series-of-commands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use PowerShell To Access a WebService</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/use-powershell-to-access-a-webservice/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/use-powershell-to-access-a-webservice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convert a WebLogic Cluster from configured to dynamic</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/convert-weblogic-cluster-configured-dynamic/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/convert-weblogic-cluster-configured-dynamic/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
