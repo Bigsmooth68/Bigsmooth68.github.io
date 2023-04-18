@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/kafka-monitoring-in-prometheus/</loc>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
-    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +20,15 @@
                 hreflang="fr"
                 href="https://bigsmooth68.github.io/"
                 />
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/observability-vs-monitoring/</loc>
+    <lastmod>2023-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/oracle-weblogic-docker-images/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus/</loc>
+    <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/nginx-monitoring-in-prometheus/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>

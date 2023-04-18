@@ -6,7 +6,34 @@
     <description>Recent content on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 28 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafka Monitoring in Prometheus</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/kafka-monitoring-in-prometheus/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/kafka-monitoring-in-prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observability vs Monitoring</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/observability-vs-monitoring/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/observability-vs-monitoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle WebLogic Docker Images</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/oracle-weblogic-docker-images/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/oracle-weblogic-docker-images/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Apache Tomcat Monitoring in Prometheus</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus/</link>
