@@ -6,13 +6,40 @@
     <description>Recent content in Dbi-blogs on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 18 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible Event Driven Automation</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/ansible-event-driven-automation/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/ansible-event-driven-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Rotation in JBoss-EAP</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/log-rotation-in-jboss-eap/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/log-rotation-in-jboss-eap/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Kafka Monitoring in Prometheus</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/kafka-monitoring-in-prometheus/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/kafka-monitoring-in-prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YaK and Ansible Collection Integration</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/yak-and-ansible-collection-integration/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/yak-and-ansible-collection-integration/</guid>
       <description></description>
     </item>
     
