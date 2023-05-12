@@ -6,22 +6,31 @@
     <description>Recent content in Dbi-blogs on Mon blogue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 02 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ansible Event Driven Automation</title>
-      <link>https://bigsmooth68.github.io/dbi-blogs/ansible-event-driven-automation/</link>
-      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <title>Grail and Dynatrace Query Language</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/grail-and-dynatrace-query-language/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://bigsmooth68.github.io/dbi-blogs/ansible-event-driven-automation/</guid>
+      <guid>https://bigsmooth68.github.io/dbi-blogs/grail-and-dynatrace-query-language/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Log Rotation in JBoss-EAP</title>
-      <link>https://bigsmooth68.github.io/dbi-blogs/log-rotation-in-jboss-eap/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <title>WildFly: From Log to Dashboard with dynatrace</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/wildfly-from-log-to-dashboard-with-dynatrace/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://bigsmooth68.github.io/dbi-blogs/log-rotation-in-jboss-eap/</guid>
+      <guid>https://bigsmooth68.github.io/dbi-blogs/wildfly-from-log-to-dashboard-with-dynatrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynatrace First Steps</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/dynatrace-first-steps/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/dynatrace-first-steps/</guid>
       <description></description>
     </item>
     
@@ -58,6 +67,33 @@
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/oracle-weblogic-docker-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Driven Automation and Kafka</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/ansible-driven-automation-and-kafka/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/ansible-driven-automation-and-kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JBoss-EAP and WildFly Official Docker Images</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-and-wildfly-official-docker-images/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-and-wildfly-official-docker-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JBoss EAP Patching</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</guid>
       <description></description>
     </item>
     
@@ -116,20 +152,20 @@
     </item>
     
     <item>
-      <title>JBoss EAP Patching</title>
-      <link>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/dbi-blogs/jboss-eap-patching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Apache JMeter Playground</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/apache-jmeter-playground/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/apache-jmeter-playground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Event Driven Automation</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/ansible-event-driven-automation/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/ansible-event-driven-automation/</guid>
       <description></description>
     </item>
     
@@ -148,6 +184,15 @@
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/containers-for-developers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Rotation in JBoss-EAP</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/log-rotation-in-jboss-eap/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/log-rotation-in-jboss-eap/</guid>
       <description></description>
     </item>
     
@@ -172,7 +217,7 @@
     <item>
       <title>Tips to Develop a new Component on top of YaK Core</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/tips-to-develop-a-new-component-on-top-of-yak-core/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/tips-to-develop-a-new-component-on-top-of-yak-core/</guid>
       <description></description>
@@ -233,15 +278,6 @@
     </item>
     
     <item>
-      <title>Starting with Simple Ansible Playbooks</title>
-      <link>https://bigsmooth68.github.io/dbi-blogs/starting-with-simple-ansible-playbooks/</link>
-      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/dbi-blogs/starting-with-simple-ansible-playbooks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Use Ansible like a Programming Language</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/use-ansible-like-a-programming-language/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
@@ -251,9 +287,18 @@
     </item>
     
     <item>
+      <title>Starting with Simple Ansible Playbooks</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/starting-with-simple-ansible-playbooks/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/starting-with-simple-ansible-playbooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Microsoft Teams, Power Automate and Planner</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/microsoft-teams-power-automate-and-planner/</link>
-      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/microsoft-teams-power-automate-and-planner/</guid>
       <description></description>
@@ -262,7 +307,7 @@
     <item>
       <title>Scripting is not Just a Series of Commands</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/scripting-is-not-just-a-series-of-commands/</link>
-      <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bigsmooth68.github.io/dbi-blogs/scripting-is-not-just-a-series-of-commands/</guid>
       <description></description>
