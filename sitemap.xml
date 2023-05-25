@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/monitoring-short-living-processes-with-prometheus/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
-    <lastmod>2023-05-23T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/predict-the-future-with-prometheus/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
