@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
-    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/prometheus-vs-victoriametrics/</loc>
+    <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/snmp-monitoring-with-prometheus/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
