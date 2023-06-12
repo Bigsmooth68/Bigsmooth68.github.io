@@ -6,7 +6,25 @@
     <description>Recent content in Dbi-blogs on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oracle Database monitoring with Zabbix</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/oracle-database-monitoring-with-zabbix/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/oracle-database-monitoring-with-zabbix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrating Monitoring Data from Prometheus to VictoriaMetrics</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/migrating-monitoring-data-from-prometheus-to-victoriametrics/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/migrating-monitoring-data-from-prometheus-to-victoriametrics/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Prometheus vs VictoriaMetrics</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/prometheus-vs-victoriametrics/</link>
