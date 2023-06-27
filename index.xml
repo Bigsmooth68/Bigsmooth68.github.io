@@ -6,7 +6,16 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zabbix from Problem to Remediation</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/zabbix-from-problem-to-remediation/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/zabbix-from-problem-to-remediation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Zabbix Agent Automated Registration</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/zabbix-agent-automated-registration/</link>
