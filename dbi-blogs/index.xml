@@ -6,7 +6,16 @@
     <description>Recent content in Dbi-blogs on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My JVM Memory Analyzes Toolkit</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/my-jvm-memory-analyzes-toolkit/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/my-jvm-memory-analyzes-toolkit/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Zabbix Proxy</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/zabbix-proxy/</link>
