@@ -6,7 +6,16 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Kafka Consumer Group</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/apache-kafka-consumer-group/</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/apache-kafka-consumer-group/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Apache Kafka Concepts by Example</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/apache-kafka-concepts-by-example/</link>
