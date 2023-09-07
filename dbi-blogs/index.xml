@@ -6,7 +6,16 @@
     <description>Recent content in Dbi-blogs on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zabbix Report Scheduler Setup and Troubleshooting</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/zabbix-report-scheduler-setup-and-troubleshooting/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/zabbix-report-scheduler-setup-and-troubleshooting/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Zabbix Better Storage</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/zabbix-better-storage/</link>
