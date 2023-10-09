@@ -6,7 +6,16 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keep Your Software&#39;s Up to Date with Zabbix</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/keep-your-softwares-up-to-date-with-zabbix/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/keep-your-softwares-up-to-date-with-zabbix/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Modifying a Zabbix Template for WildFly JVM Monitoring</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</link>
