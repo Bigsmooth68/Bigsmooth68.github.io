@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/aws-monitoring-with-zabbix/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/keep-your-softwares-up-to-date-with-zabbix/</loc>
-    <lastmod>2023-10-09T00:00:00+00:00</lastmod>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
+    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/keep-your-softwares-up-to-date-with-zabbix/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</loc>
