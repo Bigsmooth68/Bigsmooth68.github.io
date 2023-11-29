@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/monitor-microsoft-sql-server-with-zabbix/</loc>
-    <lastmod>2023-11-13T00:00:00+00:00</lastmod>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/jmeter-debugging/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/monitor-microsoft-sql-server-with-zabbix/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/monitor-alfresco-with-zabbix/</loc>

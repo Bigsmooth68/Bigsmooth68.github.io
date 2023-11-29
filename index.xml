@@ -6,7 +6,16 @@
     <description>Recent content on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JMeter Debugging</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/jmeter-debugging/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/jmeter-debugging/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Monitor Microsoft SQL Server with Zabbix</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/monitor-microsoft-sql-server-with-zabbix/</link>
