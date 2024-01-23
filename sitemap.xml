@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus-without-jmx/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/monitor-m-files-with-zabbix/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-tomcat-monitoring-in-prometheus-without-jmx/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/zabbix-in-the-middle-of-prometheus-and-grafana/</loc>
