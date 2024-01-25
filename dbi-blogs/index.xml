@@ -6,7 +6,16 @@
     <description>Recent content in Dbi-blogs on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Load Test M-Files Server with JMeter</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/load-test-m-files-server-with-jmeter/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/load-test-m-files-server-with-jmeter/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Monitor M-Files with Zabbix</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/monitor-m-files-with-zabbix/</link>
