@@ -6,7 +6,16 @@
     <description>Recent content in Dbi-blogs on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bigsmooth68.github.io/dbi-blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zabbix Web Monitoring</title>
+      <link>https://bigsmooth68.github.io/dbi-blogs/zabbix-web-monitoring/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigsmooth68.github.io/dbi-blogs/zabbix-web-monitoring/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>How to do Improve your JMeter Load Testing?</title>
       <link>https://bigsmooth68.github.io/dbi-blogs/how-to-do-improve-your-jmeter-load-testing/</link>
