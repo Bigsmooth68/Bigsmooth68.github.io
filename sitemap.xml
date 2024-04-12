@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-httpd-tuning-and-monitoring-with-zabbix/</loc>
-    <lastmod>2024-04-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/</loc>
-    <lastmod>2024-04-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/monitor-elasticsearch-cluster-with-zabbix/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/</loc>
+    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bigsmooth68.github.io/dbi-blogs/apache-httpd-tuning-and-monitoring-with-zabbix/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/dbi-blogs/faster-ansible/</loc>
