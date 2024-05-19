@@ -2,285 +2,285 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bigsmooth68.github.io/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-kafka-and-ksqldb/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kafka/</loc>
+    <loc>https://bigsmooth68.github.io/tags/kafka/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://bigsmooth68.github.io/posts/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://bigsmooth68.github.io/tags/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/elasticsearch-ingest-pipeline-and-machine-learning/</loc>
+    <loc>https://bigsmooth68.github.io/posts/elasticsearch-ingest-pipeline-and-machine-learning/</loc>
     <lastmod>2024-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitor-elasticsearch-cluster-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitor-elasticsearch-cluster-with-zabbix/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/tags/zabbix/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/monitoring/</loc>
+    <loc>https://bigsmooth68.github.io/tags/monitoring/</loc>
     <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ansible/</loc>
+    <loc>https://bigsmooth68.github.io/tags/ansible/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/faster-ansible/</loc>
+    <loc>https://bigsmooth68.github.io/posts/faster-ansible/</loc>
     <lastmod>2024-04-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitor-kubernetes-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitor-kubernetes-with-zabbix/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/configure-zabbix-with-ansible/</loc>
+    <loc>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-web-monitoring/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</loc>
     <lastmod>2024-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/how-to-do-improve-your-jmeter-load-testing/</loc>
+    <loc>https://bigsmooth68.github.io/posts/how-to-do-improve-your-jmeter-load-testing/</loc>
     <lastmod>2024-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/load-test-m-files-server-with-jmeter/</loc>
+    <loc>https://bigsmooth68.github.io/posts/load-test-m-files-server-with-jmeter/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitor-m-files-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitor-m-files-with-zabbix/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jmeter-remote-testing/</loc>
+    <loc>https://bigsmooth68.github.io/posts/jmeter-remote-testing/</loc>
     <lastmod>2023-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jmeter-debugging/</loc>
+    <loc>https://bigsmooth68.github.io/posts/jmeter-debugging/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitor-microsoft-sql-server-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitor-microsoft-sql-server-with-zabbix/</loc>
     <lastmod>2023-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitor-alfresco-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitor-alfresco-with-zabbix/</loc>
     <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aws-monitoring-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/keep-your-softwares-up-to-date-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/keep-your-softwares-up-to-date-with-zabbix/</loc>
     <lastmod>2023-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</loc>
+    <loc>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/adapt-zabbix-to-your-needs/</loc>
+    <loc>https://bigsmooth68.github.io/posts/adapt-zabbix-to-your-needs/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-report-scheduler-setup-and-troubleshooting/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-report-scheduler-setup-and-troubleshooting/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-better-storage/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-better-storage/</loc>
     <lastmod>2023-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-configuration-with-api/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-configuration-with-api/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-kafka-consumer-group/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</loc>
     <lastmod>2023-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-kafka-concepts-by-example/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</loc>
     <lastmod>2023-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-jvm-memory-analyzes-toolkit/</loc>
+    <loc>https://bigsmooth68.github.io/posts/my-jvm-memory-analyzes-toolkit/</loc>
     <lastmod>2023-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-proxy/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-proxy/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nagios-remote-plugin-executor-and-ev-observe/</loc>
+    <loc>https://bigsmooth68.github.io/posts/nagios-remote-plugin-executor-and-ev-observe/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitoring-scripts-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</loc>
     <lastmod>2023-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-from-problem-to-remediation/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-from-problem-to-remediation/</loc>
     <lastmod>2023-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-agent-automated-registration/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-agent-automated-registration/</loc>
     <lastmod>2023-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-automatic-item-creation/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-automatic-item-creation/</loc>
     <lastmod>2023-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/display-load-test-results-in-grafana/</loc>
+    <loc>https://bigsmooth68.github.io/posts/display-load-test-results-in-grafana/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/zabbix-defining-custom-monitoring-metric/</loc>
+    <loc>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</loc>
     <lastmod>2023-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/oracle-database-monitoring-with-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</loc>
+    <loc>https://bigsmooth68.github.io/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</loc>
     <lastmod>2023-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/prometheus-vs-victoriametrics/</loc>
+    <loc>https://bigsmooth68.github.io/posts/prometheus-vs-victoriametrics/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/snmp-monitoring-with-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/snmp-monitoring-with-prometheus/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wildfly-monitoring-in-zabbix/</loc>
+    <loc>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</loc>
     <lastmod>2023-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitoring-short-living-processes-with-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/monitoring-short-living-processes-with-prometheus/</loc>
     <lastmod>2023-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/predict-the-future-with-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/predict-the-future-with-prometheus/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cities-i-ve-visited/</loc>
+    <loc>https://bigsmooth68.github.io/posts/cities-i-ve-visited/</loc>
     <lastmod>2023-05-14T15:38:04+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dynatrace/</loc>
+    <loc>https://bigsmooth68.github.io/tags/dynatrace/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/grail-and-dynatrace-query-language/</loc>
+    <loc>https://bigsmooth68.github.io/posts/grail-and-dynatrace-query-language/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wildfly-from-log-to-dashboard-with-dynatrace/</loc>
+    <loc>https://bigsmooth68.github.io/posts/wildfly-from-log-to-dashboard-with-dynatrace/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dynatrace-first-steps/</loc>
+    <loc>https://bigsmooth68.github.io/posts/dynatrace-first-steps/</loc>
     <lastmod>2023-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/yak-and-ansible-collection-integration/</loc>
+    <loc>https://bigsmooth68.github.io/posts/yak-and-ansible-collection-integration/</loc>
     <lastmod>2023-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/observability-vs-monitoring/</loc>
+    <loc>https://bigsmooth68.github.io/posts/observability-vs-monitoring/</loc>
     <lastmod>2023-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/oracle-weblogic-docker-images/</loc>
+    <loc>https://bigsmooth68.github.io/posts/oracle-weblogic-docker-images/</loc>
     <lastmod>2023-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ansible-driven-automation-and-kafka/</loc>
+    <loc>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jboss-eap-and-wildfly-official-docker-images/</loc>
+    <loc>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-official-docker-images/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jboss-eap-patching/</loc>
+    <loc>https://bigsmooth68.github.io/posts/jboss-eap-patching/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus/</loc>
     <lastmod>2023-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nginx-monitoring-in-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/nginx-monitoring-in-prometheus/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/weblogic-monitoring-in-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/weblogic-monitoring-in-prometheus/</loc>
     <lastmod>2023-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://bigsmooth68.github.io/tags/about/</loc>
     <lastmod>2023-03-25T16:56:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bigsmooth68.github.io/about/</loc>
     <lastmod>2023-03-25T16:56:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cr%C3%A9er_un_blog_sur_github.io/</loc>
+    <loc>https://bigsmooth68.github.io/posts/cr%C3%A9er_un_blog_sur_github.io/</loc>
     <lastmod>2023-03-25T16:55:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://bigsmooth68.github.io/tags/hugo/</loc>
     <lastmod>2023-03-25T16:55:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ssg/</loc>
+    <loc>https://bigsmooth68.github.io/tags/ssg/</loc>
     <lastmod>2023-03-25T16:55:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tutoriel/</loc>
+    <loc>https://bigsmooth68.github.io/tags/tutoriel/</loc>
     <lastmod>2023-03-25T16:55:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wildfly-monitoring-in-prometheus/</loc>
+    <loc>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-prometheus/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/octoperf-dynamic-browsing/</loc>
+    <loc>https://bigsmooth68.github.io/posts/octoperf-dynamic-browsing/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/octoperf-performance-testing/</loc>
+    <loc>https://bigsmooth68.github.io/posts/octoperf-performance-testing/</loc>
     <lastmod>2023-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apache-jmeter-playground/</loc>
+    <loc>https://bigsmooth68.github.io/posts/apache-jmeter-playground/</loc>
     <lastmod>2023-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ansible-event-driven-automation/</loc>
+    <loc>https://bigsmooth68.github.io/posts/ansible-event-driven-automation/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/patching-weblogic-with-stack-patch-bundle-spb/</loc>
+    <loc>https://bigsmooth68.github.io/posts/patching-weblogic-with-stack-patch-bundle-spb/</loc>
     <lastmod>2023-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/containers-for-developers/</loc>
+    <loc>https://bigsmooth68.github.io/posts/containers-for-developers/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/log-rotation-in-jboss-eap/</loc>
+    <loc>https://bigsmooth68.github.io/posts/log-rotation-in-jboss-eap/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/overcome-jboss-cli-limitations-with-ansible/</loc>
+    <loc>https://bigsmooth68.github.io/posts/overcome-jboss-cli-limitations-with-ansible/</loc>
     <lastmod>2022-12-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</loc>
+    <loc>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</loc>
     <lastmod>2022-11-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tips-to-develop-a-new-component-on-top-of-yak-core/</loc>
+    <loc>https://bigsmooth68.github.io/posts/tips-to-develop-a-new-component-on-top-of-yak-core/</loc>
     <lastmod>2022-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/add-on-premises-host-in-yak-core/</loc>
+    <loc>https://bigsmooth68.github.io/posts/add-on-premises-host-in-yak-core/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/redhat-jboss-eap-8-is-on-the-way/</loc>
+    <loc>https://bigsmooth68.github.io/posts/redhat-jboss-eap-8-is-on-the-way/</loc>
     <lastmod>2022-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/weblogic-licence-compliance-and-out-of-memory-errors/</loc>
+    <loc>https://bigsmooth68.github.io/posts/weblogic-licence-compliance-and-out-of-memory-errors/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ansible-imagination-is-the-limit/</loc>
+    <loc>https://bigsmooth68.github.io/posts/ansible-imagination-is-the-limit/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what-is-variable-precedence-in-ansible/</loc>
+    <loc>https://bigsmooth68.github.io/posts/what-is-variable-precedence-in-ansible/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ansible-uri-module-and-weblogic-rest-api/</loc>
+    <loc>https://bigsmooth68.github.io/posts/ansible-uri-module-and-weblogic-rest-api/</loc>
     <lastmod>2021-11-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/use-ansible-like-a-programming-language/</loc>
+    <loc>https://bigsmooth68.github.io/posts/use-ansible-like-a-programming-language/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/starting-with-simple-ansible-playbooks/</loc>
+    <loc>https://bigsmooth68.github.io/posts/starting-with-simple-ansible-playbooks/</loc>
     <lastmod>2021-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/microsoft-teams-power-automate-and-planner/</loc>
+    <loc>https://bigsmooth68.github.io/posts/microsoft-teams-power-automate-and-planner/</loc>
     <lastmod>2020-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/scripting-is-not-just-a-series-of-commands/</loc>
+    <loc>https://bigsmooth68.github.io/posts/scripting-is-not-just-a-series-of-commands/</loc>
     <lastmod>2019-09-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/use-powershell-to-access-a-webservice/</loc>
+    <loc>https://bigsmooth68.github.io/posts/use-powershell-to-access-a-webservice/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/convert-weblogic-cluster-configured-dynamic/</loc>
+    <loc>https://bigsmooth68.github.io/posts/convert-weblogic-cluster-configured-dynamic/</loc>
     <lastmod>2018-06-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://bigsmooth68.github.io/categories/</loc>
   </url>
 </urlset>

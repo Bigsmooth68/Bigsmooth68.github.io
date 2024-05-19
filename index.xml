@@ -2,570 +2,570 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://localhost:1313/</link>
+    <link>https://bigsmooth68.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bigsmooth68.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Kafka and ksqlDB</title>
-      <link>http://localhost:1313/posts/apache-kafka-and-ksqldb/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-kafka-and-ksqldb/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</guid>
       <description>After two introduction blogs on Apache Kafka (ie. Apache Kafka Concepts by Example and Apache Kafka Consumer Group), it is time to discover the wide ecosystem around it. In this blog post,(…)</description>
     </item>
     <item>
       <title>Elasticsearch, Ingest Pipeline and Machine Learning</title>
-      <link>http://localhost:1313/posts/elasticsearch-ingest-pipeline-and-machine-learning/</link>
+      <link>https://bigsmooth68.github.io/posts/elasticsearch-ingest-pipeline-and-machine-learning/</link>
       <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/elasticsearch-ingest-pipeline-and-machine-learning/</guid>
+      <guid>https://bigsmooth68.github.io/posts/elasticsearch-ingest-pipeline-and-machine-learning/</guid>
       <description>Elasticsearch has few interesting features around Machine Learning. While I was looking for data to import into Elasticsearch, I found interesting data sets from Airbnb especially reviews. I noticed that it does not contain any rate,(…)</description>
     </item>
     <item>
       <title>Monitor Elasticsearch Cluster with Zabbix</title>
-      <link>http://localhost:1313/posts/monitor-elasticsearch-cluster-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/monitor-elasticsearch-cluster-with-zabbix/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitor-elasticsearch-cluster-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitor-elasticsearch-cluster-with-zabbix/</guid>
       <description>Setting up Zabbix monitoring over an Elasticsearch cluster is quiet easy as it does not require an agent install. As a matter a fact, the official template uses the Elastic REST API. Zabbix server itself will(…)</description>
     </item>
     <item>
       <title>Apache httpd Tuning and Monitoring with Zabbix</title>
-      <link>http://localhost:1313/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</guid>
       <description>There is no tuning possible without a proper monitoring in place to measure the impact of any changes. Thus, before trying to tune an Apache httpd server, I will explain how to monitor it with Zabbix. Setup Zabbix Monitoring Apache(…)</description>
     </item>
     <item>
       <title>Faster Ansible</title>
-      <link>http://localhost:1313/posts/faster-ansible/</link>
+      <link>https://bigsmooth68.github.io/posts/faster-ansible/</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/faster-ansible/</guid>
+      <guid>https://bigsmooth68.github.io/posts/faster-ansible/</guid>
       <description>Even if Ansible is powerful and flexible, it can be considered “slow”. It will be anyway faster, and more consistent, than doing the same steps manually. Nevertheless, we will experiment to make it even faster. I found few of them(…)</description>
     </item>
     <item>
       <title>Monitor Kubernetes with Zabbix</title>
-      <link>http://localhost:1313/posts/monitor-kubernetes-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/monitor-kubernetes-with-zabbix/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitor-kubernetes-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitor-kubernetes-with-zabbix/</guid>
       <description>Zabbix might not be the first monitoring tool that comes in mind when you want to monitor a Kubernetes cluster (Did you say Prometheus? 🙂 ). Nevertheless, as an open-source project, Zabbix have affinities with others open-source projects. In this(…)</description>
     </item>
     <item>
       <title>Configure Zabbix with Ansible</title>
-      <link>http://localhost:1313/posts/configure-zabbix-with-ansible/</link>
+      <link>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/configure-zabbix-with-ansible/</guid>
+      <guid>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</guid>
       <description>Besides the ability to setup your Zabbix server, proxy and agents, the Ansible collection for Zabbix (ie. community.zabbix) also allows to configure every aspects of your Zabbix system. From hosts to users,(…)</description>
     </item>
     <item>
       <title>Zabbix Web Monitoring</title>
-      <link>http://localhost:1313/posts/zabbix-web-monitoring/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-web-monitoring/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</guid>
       <description>Zabbix allows to create complex web monitoring scenario and gather metrics about it. In this blog post, we will see how to assess that we are able to login to M-Files web application and, to not(…)</description>
     </item>
     <item>
       <title>How to Improve your JMeter Load Testing?</title>
-      <link>http://localhost:1313/posts/how-to-do-improve-your-jmeter-load-testing/</link>
+      <link>https://bigsmooth68.github.io/posts/how-to-do-improve-your-jmeter-load-testing/</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/how-to-do-improve-your-jmeter-load-testing/</guid>
+      <guid>https://bigsmooth68.github.io/posts/how-to-do-improve-your-jmeter-load-testing/</guid>
       <description>In my previous blog post, I presented you how to create a load testing scenario based on a recorder. While working on it, I faced small problems that required few fixes which were very repetitive (and(…)</description>
     </item>
     <item>
       <title>Load Test M-Files Server with JMeter</title>
-      <link>http://localhost:1313/posts/load-test-m-files-server-with-jmeter/</link>
+      <link>https://bigsmooth68.github.io/posts/load-test-m-files-server-with-jmeter/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/load-test-m-files-server-with-jmeter/</guid>
+      <guid>https://bigsmooth68.github.io/posts/load-test-m-files-server-with-jmeter/</guid>
       <description>Creating load test scenario on a web application might look easy: Record a scenario Replay it In practice, it is much more complex than that when you want to manage variables elements like usernames, session IDs, and, in case of(…)</description>
     </item>
     <item>
       <title>Monitor M-Files with Zabbix</title>
-      <link>http://localhost:1313/posts/monitor-m-files-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/monitor-m-files-with-zabbix/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitor-m-files-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitor-m-files-with-zabbix/</guid>
       <description>So far, for Zabbix monitoring, I only covered Linux based servers. We can put aside MS-SQL which was monitored via ODBC, thus without any Zabbix agent involved. In this blog post, I will explain you how(…)</description>
     </item>
     <item>
       <title>Apache Tomcat Monitoring in Prometheus without JMX</title>
-      <link>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</guid>
       <description>In a previous blog post, I explained how to monitor Apache Tomcat with Prometheus with help of JMX exporter. It is not always desirable to use JMX as it requires: An additional service setup (which runs(…)</description>
     </item>
     <item>
       <title>Zabbix in the Middle of Prometheus and Grafana</title>
-      <link>http://localhost:1313/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</guid>
       <description>In this blog post, I will show you how to gather metrics from a OpenTelemetry interface from a Zabbix server and how to display Zabbix data in Grafana. Why Should I do that? First, you might wonder why should you(…)</description>
     </item>
     <item>
       <title>JMeter Remote Testing</title>
-      <link>http://localhost:1313/posts/jmeter-remote-testing/</link>
+      <link>https://bigsmooth68.github.io/posts/jmeter-remote-testing/</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jmeter-remote-testing/</guid>
+      <guid>https://bigsmooth68.github.io/posts/jmeter-remote-testing/</guid>
       <description>A typical web application architecture with a load balancer, two application servers and a database looks like this: If you run a JMeter, or any load test tool, from one unique server or workstation, the load balancer will most likely(…)</description>
     </item>
     <item>
       <title>JMeter Debugging</title>
-      <link>http://localhost:1313/posts/jmeter-debugging/</link>
+      <link>https://bigsmooth68.github.io/posts/jmeter-debugging/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jmeter-debugging/</guid>
+      <guid>https://bigsmooth68.github.io/posts/jmeter-debugging/</guid>
       <description>Writing an Apache JMeter scenario is not an easy task. Debugging a scenario is even harder. One might think that JMeter is simply recording some browser actions and that’s it, and you are good to go for a load test.</description>
     </item>
     <item>
       <title>Monitor Microsoft SQL Server with Zabbix</title>
-      <link>http://localhost:1313/posts/monitor-microsoft-sql-server-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/monitor-microsoft-sql-server-with-zabbix/</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitor-microsoft-sql-server-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitor-microsoft-sql-server-with-zabbix/</guid>
       <description>In this blog post, we will quickly see what is required to monitor a Microsoft SQL Server with Zabbix. Agent Setup Agent setup is not required by MSSQL by ODBC template; thus this step can be skipped. Setup Monitoring Account(…)</description>
     </item>
     <item>
       <title>Monitor Alfresco with Zabbix</title>
-      <link>http://localhost:1313/posts/monitor-alfresco-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/monitor-alfresco-with-zabbix/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitor-alfresco-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitor-alfresco-with-zabbix/</guid>
       <description>In this blog post, I will share a few obstacles I have encountered while trying to monitor a complete Alfresco setup with all these components. As an overview, here are the templates I will use: Apache ActiveMQ by JMX Apache(…)</description>
     </item>
     <item>
       <title>AWS Monitoring with Zabbix</title>
-      <link>http://localhost:1313/posts/aws-monitoring-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aws-monitoring-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</guid>
       <description>Until recently, I did not notice that Zabbix templates can also include Hosts prototypes under (Low Level) Discovery Rules. I wondered why, so I decided to look at pre-existing templates to check what is the aim for it. I chose(…)</description>
     </item>
     <item>
       <title>Keep Your Software’s Up to Date with Zabbix</title>
-      <link>http://localhost:1313/posts/keep-your-softwares-up-to-date-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/keep-your-softwares-up-to-date-with-zabbix/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/keep-your-softwares-up-to-date-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/keep-your-softwares-up-to-date-with-zabbix/</guid>
       <description>Monitoring tools are increasingly going beyond their usual perimeter of just monitoring metrics. Modern tools, like Zabbix, can watch files for any change and raise warning whenever it occurs. An example I found the “Linux by Zabbix agent” template: Computing(…)</description>
     </item>
     <item>
       <title>Modifying a Zabbix Template for WildFly JVM Monitoring</title>
-      <link>http://localhost:1313/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</link>
+      <link>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</guid>
+      <guid>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</guid>
       <description>Zabbix provides templates easy to setup which do not require any external scripts. As an example, you can check one of my previous blog post on the subject where I monitored a WildFly server. These one(…)</description>
     </item>
     <item>
       <title>Adapt Zabbix to Your Needs</title>
-      <link>http://localhost:1313/posts/adapt-zabbix-to-your-needs/</link>
+      <link>https://bigsmooth68.github.io/posts/adapt-zabbix-to-your-needs/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adapt-zabbix-to-your-needs/</guid>
+      <guid>https://bigsmooth68.github.io/posts/adapt-zabbix-to-your-needs/</guid>
       <description>Zabbix comes with an long list of smart and customizable templates (more than 270). In this blog post, I will explain how to customize these templates and adapt them to your environment’s needs. Macro The first level of customization is(…)</description>
     </item>
     <item>
       <title>Zabbix Report Scheduler Setup and Troubleshooting</title>
-      <link>http://localhost:1313/posts/zabbix-report-scheduler-setup-and-troubleshooting/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-report-scheduler-setup-and-troubleshooting/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-report-scheduler-setup-and-troubleshooting/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-report-scheduler-setup-and-troubleshooting/</guid>
       <description>I wanted to test the Zabbix report scheduler. In this blog, I will explain how to do it as well as the different issues I faced (with cause and resolution, obviously 🙂 ). By the way, report scheduler is a(…)</description>
     </item>
     <item>
       <title>Zabbix Better Storage</title>
-      <link>http://localhost:1313/posts/zabbix-better-storage/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-better-storage/</link>
       <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-better-storage/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-better-storage/</guid>
       <description>Among the different possibilities for Zabbix storage, one piqued my curiosity: TimescaleDB TimescaleDB is a time series database plugin for PostgreSQL. Joël Cattin already blogged about it here from a general point(…)</description>
     </item>
     <item>
       <title>Zabbix Configuration with API</title>
-      <link>http://localhost:1313/posts/zabbix-configuration-with-api/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-configuration-with-api/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-configuration-with-api/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-configuration-with-api/</guid>
       <description>Despite the will of Zabbix to be as automated as possible, some tasks cannot be automated. Nevertheless, Zabbix offers an HTTP-based API which can be used programmatically. This opens the door to huge possibilities in terms of automation. JSON-RPC JSON-RPC(…)</description>
     </item>
     <item>
       <title>Apache Kafka Consumer Group</title>
-      <link>http://localhost:1313/posts/apache-kafka-consumer-group/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-kafka-consumer-group/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</guid>
       <description>On producer side, messages are load balanced across partition based on hashed key. On the consumer side, to ensure that each message is processed by only one consumer within the group, allowing for load balancing, fault tolerance, and efficient utilization(…)</description>
     </item>
     <item>
       <title>Apache Kafka Concepts by Example</title>
-      <link>http://localhost:1313/posts/apache-kafka-concepts-by-example/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-kafka-concepts-by-example/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</guid>
       <description>In this blog post, I will demonstrate the first few concepts to understand when you want to learn Apache Kafka. Documentation explains it well, but I find that concrete examples give a better feeling of the(…)</description>
     </item>
     <item>
       <title>My JVM Memory Analyzes Toolkit</title>
-      <link>http://localhost:1313/posts/my-jvm-memory-analyzes-toolkit/</link>
+      <link>https://bigsmooth68.github.io/posts/my-jvm-memory-analyzes-toolkit/</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-jvm-memory-analyzes-toolkit/</guid>
+      <guid>https://bigsmooth68.github.io/posts/my-jvm-memory-analyzes-toolkit/</guid>
       <description>One of the most common errors while running an application is “out of memory”. And Java is no different besides errors being named exceptions. The exact exception name you might have encountered is: java.lang.OutOfMemoryError And, in most cases, it is(…)</description>
     </item>
     <item>
       <title>Zabbix Proxy</title>
-      <link>http://localhost:1313/posts/zabbix-proxy/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-proxy/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-proxy/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-proxy/</guid>
       <description>Among the different packages provided by Zabbix, one arouse my curiosity: Proxy. What is its purpose? When to use it? How to install it? I will cover these in this blog post. Intention There are multiple reasons to use a(…)</description>
     </item>
     <item>
       <title>Nagios Remote Plugin Executor and EV Observe</title>
-      <link>http://localhost:1313/posts/nagios-remote-plugin-executor-and-ev-observe/</link>
+      <link>https://bigsmooth68.github.io/posts/nagios-remote-plugin-executor-and-ev-observe/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nagios-remote-plugin-executor-and-ev-observe/</guid>
+      <guid>https://bigsmooth68.github.io/posts/nagios-remote-plugin-executor-and-ev-observe/</guid>
       <description>Nagios Remote Plugin Executor, in short NRPE, is the nagios server plugin required to call script hosted on agents we want to monitor. You might wonder why I would try this agent when I am not using Nagios server. Well,(…)</description>
     </item>
     <item>
       <title>Monitoring Scripts with Zabbix</title>
-      <link>http://localhost:1313/posts/monitoring-scripts-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitoring-scripts-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</guid>
       <description>In a similar manner as in this Prometheus blog, you might want to monitor scripts which are short living or do not fit the pull-model (Server pulling from agent). Thus, it can use the push model(…)</description>
     </item>
     <item>
       <title>Zabbix from Problem to Remediation</title>
-      <link>http://localhost:1313/posts/zabbix-from-problem-to-remediation/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-from-problem-to-remediation/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-from-problem-to-remediation/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-from-problem-to-remediation/</guid>
       <description>Until now, in my previous blog posts, we did not cover one of the main features of any monitoring platform: Alarming. In Zabbix, it is named triggers. Item and Trigger Trigger is based on an item calculation. Thus, the first(…)</description>
     </item>
     <item>
       <title>Zabbix Agent Automated Registration</title>
-      <link>http://localhost:1313/posts/zabbix-agent-automated-registration/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-agent-automated-registration/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-agent-automated-registration/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-agent-automated-registration/</guid>
       <description>For those reading my blog posts regularly, you know I am an fan of automation. Declaring each host in Zabbix configuration manually is not an idea I like very much. Moreover, in dynamic environments which are moving a lot, manual(…)</description>
     </item>
     <item>
       <title>Zabbix Automatic Item Creation</title>
-      <link>http://localhost:1313/posts/zabbix-automatic-item-creation/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-automatic-item-creation/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-automatic-item-creation/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-automatic-item-creation/</guid>
       <description>In my previous Zabbix blog post, I wanted to monitor JVM garbage collection metrics. As there are 17 items to create, I looked for a way to automatically create them. I found it 🙂 . In(…)</description>
     </item>
     <item>
       <title>Display Load Test Results in Grafana</title>
-      <link>http://localhost:1313/posts/display-load-test-results-in-grafana/</link>
+      <link>https://bigsmooth68.github.io/posts/display-load-test-results-in-grafana/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/display-load-test-results-in-grafana/</guid>
+      <guid>https://bigsmooth68.github.io/posts/display-load-test-results-in-grafana/</guid>
       <description>Lately, I played a lot with the de facto standard for monitoring visualization (ie. Grafana). It can display your data with great dashboard capabilities. On the other side, JMeter, a highly customizable load test tool, has visualization possibilities, but with(…)</description>
     </item>
     <item>
       <title>Defining Custom Monitoring Metric in Zabbix</title>
-      <link>http://localhost:1313/posts/zabbix-defining-custom-monitoring-metric/</link>
+      <link>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/zabbix-defining-custom-monitoring-metric/</guid>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</guid>
       <description>In this blog, we will see how to add custom monitoring metric into Zabbix and, more precisely, get Java Virtual Machine (JVM) garbage collector heap statics. jstat OpenJDK includes an interesting tool to monitor a JVM: jstat. Let’s see what(…)</description>
     </item>
     <item>
       <title>Oracle Database monitoring with Zabbix</title>
-      <link>http://localhost:1313/posts/oracle-database-monitoring-with-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oracle-database-monitoring-with-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</guid>
       <description>Zabbix comes with an Oracle Database monitoring template out-of-the-box, so it should not be too complicated to integrate one server. Nevertheless, I faced a few issues while trying to setup one and I will detail these steps below. Agent Installation(…)</description>
     </item>
     <item>
       <title>Migrating Monitoring Data from Prometheus to VictoriaMetrics</title>
-      <link>http://localhost:1313/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</link>
+      <link>https://bigsmooth68.github.io/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</guid>
+      <guid>https://bigsmooth68.github.io/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</guid>
       <description>Now that we know the advantages of VictoriaMetrics over Prometheus (see my previous blog post), we have to find a way to migrate data between the two. If you have the default retention set in Prometheus(…)</description>
     </item>
     <item>
       <title>Prometheus vs VictoriaMetrics</title>
-      <link>http://localhost:1313/posts/prometheus-vs-victoriametrics/</link>
+      <link>https://bigsmooth68.github.io/posts/prometheus-vs-victoriametrics/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/prometheus-vs-victoriametrics/</guid>
+      <guid>https://bigsmooth68.github.io/posts/prometheus-vs-victoriametrics/</guid>
       <description>As I went through many monitoring tools recently, I found that Prometheus is a de facto standard. At least from the way it is working. It is even a so strong standard that other Time Series Database (TSDB), like(…)</description>
     </item>
     <item>
       <title>SNMP Monitoring with Prometheus</title>
-      <link>http://localhost:1313/posts/snmp-monitoring-with-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/snmp-monitoring-with-prometheus/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/snmp-monitoring-with-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/snmp-monitoring-with-prometheus/</guid>
       <description>It is not always possible to install an exporter on the server or equipment you must monitor, either because you don’t administrate that server, or it cannot run an exporter (ie. device with limited resources). For that purpose, two exporters(…)</description>
     </item>
     <item>
       <title>WildFly monitoring in Zabbix</title>
-      <link>http://localhost:1313/posts/wildfly-monitoring-in-zabbix/</link>
+      <link>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wildfly-monitoring-in-zabbix/</guid>
+      <guid>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</guid>
       <description>Zabbix is a fully featured open-source monitoring solution. I wanted to evaluate how easy it is to monitor an application server like WildFly. Server Installation First component to install is the server which also requires a(…)</description>
     </item>
     <item>
       <title>Monitoring Short Living Processes with Prometheus</title>
-      <link>http://localhost:1313/posts/monitoring-short-living-processes-with-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/monitoring-short-living-processes-with-prometheus/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/monitoring-short-living-processes-with-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/monitoring-short-living-processes-with-prometheus/</guid>
       <description>With the way Prometheus is gathering metrics, pull, it is not possible to get metrics from short living processes like batch jobs as: batch jobs can be shorter than scrap_interval batch timings and scrap_interval are not aligned In this blog,(…)</description>
     </item>
     <item>
       <title>Predict the Future with Prometheus</title>
-      <link>http://localhost:1313/posts/predict-the-future-with-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/predict-the-future-with-prometheus/</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/predict-the-future-with-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/predict-the-future-with-prometheus/</guid>
       <description>As I am focusing on monitoring subject, I was wondering if it is possible to set alarm based on prediction instead of simple thresholds. Dynatrace has predictive anomaly detection feature, but in this blog, I want to test if on-premises(…)</description>
     </item>
     <item>
       <title>Cities I&#39;ve visited</title>
-      <link>http://localhost:1313/posts/cities-i-ve-visited/</link>
+      <link>https://bigsmooth68.github.io/posts/cities-i-ve-visited/</link>
       <pubDate>Sun, 14 May 2023 15:38:04 +0200</pubDate>
-      <guid>http://localhost:1313/posts/cities-i-ve-visited/</guid>
+      <guid>https://bigsmooth68.github.io/posts/cities-i-ve-visited/</guid>
       <description>Below is a map showing cities I have visited:</description>
     </item>
     <item>
       <title>Grail and Dynatrace Query Language</title>
-      <link>http://localhost:1313/posts/grail-and-dynatrace-query-language/</link>
+      <link>https://bigsmooth68.github.io/posts/grail-and-dynatrace-query-language/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/grail-and-dynatrace-query-language/</guid>
+      <guid>https://bigsmooth68.github.io/posts/grail-and-dynatrace-query-language/</guid>
       <description>In my last dynatrace blog, I presented how to go from logs to dashboard. This could look like a complex process for such a simple task. Moreover, this does not work on historical data as metric(…)</description>
     </item>
     <item>
       <title>WildFly: From Log to Dashboard with dynatrace</title>
-      <link>http://localhost:1313/posts/wildfly-from-log-to-dashboard-with-dynatrace/</link>
+      <link>https://bigsmooth68.github.io/posts/wildfly-from-log-to-dashboard-with-dynatrace/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wildfly-from-log-to-dashboard-with-dynatrace/</guid>
+      <guid>https://bigsmooth68.github.io/posts/wildfly-from-log-to-dashboard-with-dynatrace/</guid>
       <description>In my previous dynatrace blog, I explained how to deploy OneAgent on a Virtual Machine which hosts WildFly. In this one, I will tell you: How to enable log centralization Extract an attribute from log Convert(…)</description>
     </item>
     <item>
       <title>dynatrace First Steps</title>
-      <link>http://localhost:1313/posts/dynatrace-first-steps/</link>
+      <link>https://bigsmooth68.github.io/posts/dynatrace-first-steps/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/dynatrace-first-steps/</guid>
+      <guid>https://bigsmooth68.github.io/posts/dynatrace-first-steps/</guid>
       <description>In this blog, I will tell you how I setup my first agent, on a YaK deployed server. Of course, I will use YaK to deploy it. What is dynatrace? dynatrace is an observability platform which covers from infrastructure monitoring(…)</description>
     </item>
     <item>
       <title>Kafka Monitoring in Prometheus</title>
-      <link>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</guid>
       <description>Enabling monitoring on Kafka with Prometheus/Grafana is not more difficult than others exporters I configured in my previous monitoring in Prometheus blogs. Let’s see this together. JMX Exporter vs Kafka Exporter As Kafka is a Java based application, it would(…)</description>
     </item>
     <item>
       <title>YaK and Ansible Collection Integration</title>
-      <link>http://localhost:1313/posts/yak-and-ansible-collection-integration/</link>
+      <link>https://bigsmooth68.github.io/posts/yak-and-ansible-collection-integration/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/yak-and-ansible-collection-integration/</guid>
+      <guid>https://bigsmooth68.github.io/posts/yak-and-ansible-collection-integration/</guid>
       <description>In this blog, I will show you how easy it is to use an existing ansible collection with YaK. Ansible Galaxy Ansible Galaxy is a public repository of Ansible roles. For the sake of this demonstration,(…)</description>
     </item>
     <item>
       <title>Observability vs Monitoring</title>
-      <link>http://localhost:1313/posts/observability-vs-monitoring/</link>
+      <link>https://bigsmooth68.github.io/posts/observability-vs-monitoring/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/observability-vs-monitoring/</guid>
+      <guid>https://bigsmooth68.github.io/posts/observability-vs-monitoring/</guid>
       <description>Both words, observability and monitoring, are often used interchangeably and without taking care of the difference. Monitoring Monitoring is alerting based on known, predefined metrics and log patterns. Events Examples of events are: Trigger a minor event when CPU is(…)</description>
     </item>
     <item>
       <title>Oracle WebLogic Docker Images</title>
-      <link>http://localhost:1313/posts/oracle-weblogic-docker-images/</link>
+      <link>https://bigsmooth68.github.io/posts/oracle-weblogic-docker-images/</link>
       <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/oracle-weblogic-docker-images/</guid>
+      <guid>https://bigsmooth68.github.io/posts/oracle-weblogic-docker-images/</guid>
       <description>Oracle WebLogic container images stored on docker hub are deprecated. Oracle moved these on his own container registry: https://container-registry.oracle.com/ This registry contains many Oracle products, but we will focus on WebLogic in(…)</description>
     </item>
     <item>
       <title>Ansible Driven Automation and Kafka</title>
-      <link>http://localhost:1313/posts/ansible-driven-automation-and-kafka/</link>
+      <link>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ansible-driven-automation-and-kafka/</guid>
+      <guid>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</guid>
       <description>I will add another example of what can be done with Ansible Driven Automation by interfacing it with Kafka. For those who wonder what Event-Driven Ansible is have a look at my previous blog about it.</description>
     </item>
     <item>
       <title>JBoss-EAP and WildFly Official Docker Images</title>
-      <link>http://localhost:1313/posts/jboss-eap-and-wildfly-official-docker-images/</link>
+      <link>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-official-docker-images/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jboss-eap-and-wildfly-official-docker-images/</guid>
+      <guid>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-official-docker-images/</guid>
       <description>In this blog, I will focus on what is available from vendor for the two application servers I am used to work with: JBoss EAP and WildFly. Along this blog, I will show few tips and concepts on docker commands.</description>
     </item>
     <item>
       <title>JBoss EAP Patching</title>
-      <link>http://localhost:1313/posts/jboss-eap-patching/</link>
+      <link>https://bigsmooth68.github.io/posts/jboss-eap-patching/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jboss-eap-patching/</guid>
+      <guid>https://bigsmooth68.github.io/posts/jboss-eap-patching/</guid>
       <description>jboss-cli tool comes with a command named patch. As the process is obvious, this blog will be short. Nevertheless, it is still interesting to see how it changes files and directories structure of JBoss binaries. It’s worth noting that RedHat(…)</description>
     </item>
     <item>
       <title>Apache Tomcat Monitoring in Prometheus</title>
-      <link>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus/</guid>
       <description>To monitor Apache Tomcat, the most convenient solution is to use JMX Exporter provided by Prometheus git repository. Enable JMX Remote To enable JMX Remote, I will simply add the following line(…)</description>
     </item>
     <item>
       <title>Nginx Monitoring in Prometheus</title>
-      <link>http://localhost:1313/posts/nginx-monitoring-in-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/nginx-monitoring-in-prometheus/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nginx-monitoring-in-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/nginx-monitoring-in-prometheus/</guid>
       <description>Following my two previous blogs about monitoring, I will now focus on Nginx. Nginx Inc provides an exporter with it’s code: https://github.com/nginxinc/nginx-prometheus-exporter As Nginx cannot run a web application as WebLogic or(…)</description>
     </item>
     <item>
       <title>WebLogic Monitoring in Prometheus</title>
-      <link>http://localhost:1313/posts/weblogic-monitoring-in-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/weblogic-monitoring-in-prometheus/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/weblogic-monitoring-in-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/weblogic-monitoring-in-prometheus/</guid>
       <description>In this blog, I will explain how to enable WebLogic monitoring in Prometheus as I did for WildFly in my previous blog. WebLogic Monitoring Exporter Oracle is providing, as open source, a(…)</description>
     </item>
     <item>
       <title>Créer un Blog sur github.io</title>
-      <link>http://localhost:1313/posts/cr%C3%A9er_un_blog_sur_github.io/</link>
+      <link>https://bigsmooth68.github.io/posts/cr%C3%A9er_un_blog_sur_github.io/</link>
       <pubDate>Sat, 25 Mar 2023 16:55:39 +0100</pubDate>
-      <guid>http://localhost:1313/posts/cr%C3%A9er_un_blog_sur_github.io/</guid>
+      <guid>https://bigsmooth68.github.io/posts/cr%C3%A9er_un_blog_sur_github.io/</guid>
       <description>&lt;p&gt;Pour ce premier post, je vais expliquer comment j&amp;rsquo;ai mis en place ce blog sur gitpage.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WildFly monitoring in Prometheus</title>
-      <link>http://localhost:1313/posts/wildfly-monitoring-in-prometheus/</link>
+      <link>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-prometheus/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/wildfly-monitoring-in-prometheus/</guid>
+      <guid>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-prometheus/</guid>
       <description>In this blog, we will see how easy it is to add a WildFly server into a Prometheus setup. Metrics Fortunately, WildFly comes with a integrated metrics subsystem which is included in all out-of-the-box profiles. In the management console, we(…)</description>
     </item>
     <item>
       <title>OctoPerf Dynamic Browsing</title>
-      <link>http://localhost:1313/posts/octoperf-dynamic-browsing/</link>
+      <link>https://bigsmooth68.github.io/posts/octoperf-dynamic-browsing/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/octoperf-dynamic-browsing/</guid>
+      <guid>https://bigsmooth68.github.io/posts/octoperf-dynamic-browsing/</guid>
       <description>I want to improve the Virtual User (VU) I created in my previous blog by adding dynamic browsing of the shop web site. Indeed, as VU is based on a HAR file, it is statically browsing(…)</description>
     </item>
     <item>
       <title>OctoPerf Load Testing</title>
-      <link>http://localhost:1313/posts/octoperf-performance-testing/</link>
+      <link>https://bigsmooth68.github.io/posts/octoperf-performance-testing/</link>
       <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/octoperf-performance-testing/</guid>
+      <guid>https://bigsmooth68.github.io/posts/octoperf-performance-testing/</guid>
       <description>OctoPerf is a SaaS tool based on Apache JMeter, the load test functional behavior and measure performance reference tool. Among others, it has several advantages compared to JMeter: It can integrate with(…)</description>
     </item>
     <item>
       <title>Apache JMeter Playground</title>
-      <link>http://localhost:1313/posts/apache-jmeter-playground/</link>
+      <link>https://bigsmooth68.github.io/posts/apache-jmeter-playground/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/apache-jmeter-playground/</guid>
+      <guid>https://bigsmooth68.github.io/posts/apache-jmeter-playground/</guid>
       <description>As I am training myself to Apache JMeter, beside testing on my Oracle environment (which include Oracle Internet Directory, Oracle Directory Service Manager, Oracle Identity and Access Management, a Database and a web application protected by(…)</description>
     </item>
     <item>
       <title>Ansible Event Driven Automation</title>
-      <link>http://localhost:1313/posts/ansible-event-driven-automation/</link>
+      <link>https://bigsmooth68.github.io/posts/ansible-event-driven-automation/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ansible-event-driven-automation/</guid>
+      <guid>https://bigsmooth68.github.io/posts/ansible-event-driven-automation/</guid>
       <description>In my previous blogs about Ansible, I covered a few use cases: Simple playbooks Use Ansible like a Programming Language REST API calls Gather(…)</description>
     </item>
     <item>
       <title>Patching WebLogic with Stack Patch Bundle (SPB)</title>
-      <link>http://localhost:1313/posts/patching-weblogic-with-stack-patch-bundle-spb/</link>
+      <link>https://bigsmooth68.github.io/posts/patching-weblogic-with-stack-patch-bundle-spb/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/patching-weblogic-with-stack-patch-bundle-spb/</guid>
+      <guid>https://bigsmooth68.github.io/posts/patching-weblogic-with-stack-patch-bundle-spb/</guid>
       <description>Oracle delivers patches for WebLogic every 3 months. These Critical Patch Updates (CPU) are often composed of multiple patches which makes even more steps to have them installed on server: Download Copy on server Installation via opatch Since April 2021,(…)</description>
     </item>
     <item>
       <title>Docker Containers for Developers</title>
-      <link>http://localhost:1313/posts/containers-for-developers/</link>
+      <link>https://bigsmooth68.github.io/posts/containers-for-developers/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/containers-for-developers/</guid>
+      <guid>https://bigsmooth68.github.io/posts/containers-for-developers/</guid>
       <description>As I am working on developing a component for YaK, I have to stick to standards on how to write code in Ansible as well as many other constraints regarding security. I always thought of docker(…)</description>
     </item>
     <item>
       <title>Log Rotation in JBoss-EAP</title>
-      <link>http://localhost:1313/posts/log-rotation-in-jboss-eap/</link>
+      <link>https://bigsmooth68.github.io/posts/log-rotation-in-jboss-eap/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/log-rotation-in-jboss-eap/</guid>
+      <guid>https://bigsmooth68.github.io/posts/log-rotation-in-jboss-eap/</guid>
       <description>Log rotation is an important topic while configuring any software. If it is not tuned as it should it could lead to full partitions, service outages or even configuration corruptions.JBoss-EAP is not different, thus I will explain what are our(…)</description>
     </item>
     <item>
       <title>Overcome jboss-cli Limitations with Ansible</title>
-      <link>http://localhost:1313/posts/overcome-jboss-cli-limitations-with-ansible/</link>
+      <link>https://bigsmooth68.github.io/posts/overcome-jboss-cli-limitations-with-ansible/</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/overcome-jboss-cli-limitations-with-ansible/</guid>
+      <guid>https://bigsmooth68.github.io/posts/overcome-jboss-cli-limitations-with-ansible/</guid>
       <description>The work on YaK JBoss/WildFly component helped me to improve my knowledge of Ansible, but not only. I also learned a lot on jboss-cli scripting and especially limitations that comes with it. For instance, followings are(…)</description>
     </item>
     <item>
       <title>JBoss EAP (and WildFly) cli Scripting via Ansible</title>
-      <link>http://localhost:1313/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</link>
+      <link>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</link>
       <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</guid>
+      <guid>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</guid>
       <description>As I am working on a new YaK component to deploy a JBoss-EAP/WildFly server, I decided to configure it with help of jboss-cli.sh scripting tool instead of direct modification of xml files. The idea is to(…)</description>
     </item>
     <item>
       <title>Tips to Develop a new Component on top of YaK Core</title>
-      <link>http://localhost:1313/posts/tips-to-develop-a-new-component-on-top-of-yak-core/</link>
+      <link>https://bigsmooth68.github.io/posts/tips-to-develop-a-new-component-on-top-of-yak-core/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tips-to-develop-a-new-component-on-top-of-yak-core/</guid>
+      <guid>https://bigsmooth68.github.io/posts/tips-to-develop-a-new-component-on-top-of-yak-core/</guid>
       <description>If you are following social medias, you are probably aware of the new product that dbi services launched which is called YaK (news here). With Pascal Brand, we(…)</description>
     </item>
     <item>
       <title>Add On-Premises Host in YaK Core</title>
-      <link>http://localhost:1313/posts/add-on-premises-host-in-yak-core/</link>
+      <link>https://bigsmooth68.github.io/posts/add-on-premises-host-in-yak-core/</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/add-on-premises-host-in-yak-core/</guid>
+      <guid>https://bigsmooth68.github.io/posts/add-on-premises-host-in-yak-core/</guid>
       <description>Even if YaK Core does not manage on-premises servers provisioning, these can be easily added to YaK inventory. If you are too excited, can’t wait to test YaK and have no cloud account handy, you can(…)</description>
     </item>
     <item>
       <title>RedHat JBoss EAP 8 is on the Way</title>
-      <link>http://localhost:1313/posts/redhat-jboss-eap-8-is-on-the-way/</link>
+      <link>https://bigsmooth68.github.io/posts/redhat-jboss-eap-8-is-on-the-way/</link>
       <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/redhat-jboss-eap-8-is-on-the-way/</guid>
+      <guid>https://bigsmooth68.github.io/posts/redhat-jboss-eap-8-is-on-the-way/</guid>
       <description>As recently published, RedHat planned to release a new JBoss EAP version: Release 8. A beta release is planned in Q2 this year when official release is tentatively planned in first semester 2023. One might think(…)</description>
     </item>
     <item>
       <title>WebLogic Licence Compliance and Out of Memory Errors</title>
-      <link>http://localhost:1313/posts/weblogic-licence-compliance-and-out-of-memory-errors/</link>
+      <link>https://bigsmooth68.github.io/posts/weblogic-licence-compliance-and-out-of-memory-errors/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/weblogic-licence-compliance-and-out-of-memory-errors/</guid>
+      <guid>https://bigsmooth68.github.io/posts/weblogic-licence-compliance-and-out-of-memory-errors/</guid>
       <description>Recently, at a customer site, I faced an issue of WebLogic Admin server which crashes because it reached Java Virtual Machine (JVM) limit. Xms and Xmx were set to 1Gb. Expected behavior is that Node Manager detects it and restart(…)</description>
     </item>
     <item>
       <title>Ansible: Imagination is the Limit</title>
-      <link>http://localhost:1313/posts/ansible-imagination-is-the-limit/</link>
+      <link>https://bigsmooth68.github.io/posts/ansible-imagination-is-the-limit/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ansible-imagination-is-the-limit/</guid>
+      <guid>https://bigsmooth68.github.io/posts/ansible-imagination-is-the-limit/</guid>
       <description>As you might know, I have discovered Ansible 1 year ago. Since then, I am not using for its main purpose as wikipedia says: Ansible is an open-source software provisioning, configuration management,(…)</description>
     </item>
     <item>
       <title>What is Variable Precedence in Ansible?</title>
-      <link>http://localhost:1313/posts/what-is-variable-precedence-in-ansible/</link>
+      <link>https://bigsmooth68.github.io/posts/what-is-variable-precedence-in-ansible/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/what-is-variable-precedence-in-ansible/</guid>
+      <guid>https://bigsmooth68.github.io/posts/what-is-variable-precedence-in-ansible/</guid>
       <description>In Ansible, definition of variable precedence is often overlooked. Despite what I wrote in my previous blog (Use Ansible like a Programming Language), Ansible is not exactly a programming language. There is a difference, especially on the(…)</description>
     </item>
     <item>
       <title>Ansible URI module and WebLogic REST API</title>
-      <link>http://localhost:1313/posts/ansible-uri-module-and-weblogic-rest-api/</link>
+      <link>https://bigsmooth68.github.io/posts/ansible-uri-module-and-weblogic-rest-api/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ansible-uri-module-and-weblogic-rest-api/</guid>
+      <guid>https://bigsmooth68.github.io/posts/ansible-uri-module-and-weblogic-rest-api/</guid>
       <description>How to use WebLogic REST API with Ansible URI module.</description>
     </item>
     <item>
       <title>Use Ansible like a Programming Language</title>
-      <link>http://localhost:1313/posts/use-ansible-like-a-programming-language/</link>
+      <link>https://bigsmooth68.github.io/posts/use-ansible-like-a-programming-language/</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/use-ansible-like-a-programming-language/</guid>
+      <guid>https://bigsmooth68.github.io/posts/use-ansible-like-a-programming-language/</guid>
       <description>I did not intend to create a new blog on Ansible so fast, but here it comes. My previous blog on that topic was a first step in Ansible world. Now, it is time to use some of the(…)</description>
     </item>
     <item>
       <title>Starting with Simple Ansible Playbooks</title>
-      <link>http://localhost:1313/posts/starting-with-simple-ansible-playbooks/</link>
+      <link>https://bigsmooth68.github.io/posts/starting-with-simple-ansible-playbooks/</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/starting-with-simple-ansible-playbooks/</guid>
+      <guid>https://bigsmooth68.github.io/posts/starting-with-simple-ansible-playbooks/</guid>
       <description>Creating simple ansible playbooks(…)</description>
     </item>
     <item>
       <title>Microsoft Teams, Power Automate and Planner</title>
-      <link>http://localhost:1313/posts/microsoft-teams-power-automate-and-planner/</link>
+      <link>https://bigsmooth68.github.io/posts/microsoft-teams-power-automate-and-planner/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/microsoft-teams-power-automate-and-planner/</guid>
+      <guid>https://bigsmooth68.github.io/posts/microsoft-teams-power-automate-and-planner/</guid>
       <description>As we moved to Teams at dbi and one of our customers, automating tasks was a strong need. One of the tasks that could be automated is the creation of tasks in Microsoft Planner which does not support recurring tasks.</description>
     </item>
     <item>
       <title>Scripting is not Just a Series of Commands</title>
-      <link>http://localhost:1313/posts/scripting-is-not-just-a-series-of-commands/</link>
+      <link>https://bigsmooth68.github.io/posts/scripting-is-not-just-a-series-of-commands/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/scripting-is-not-just-a-series-of-commands/</guid>
+      <guid>https://bigsmooth68.github.io/posts/scripting-is-not-just-a-series-of-commands/</guid>
       <description>I saw, several times now, scripts were it is just a series of commands, sometime just created with copy/paste and few changes. This is far from best practices in terms of readability, maintainability and debug (ability 🙂).</description>
     </item>
     <item>
       <title>Use PowerShell To Access a WebService</title>
-      <link>http://localhost:1313/posts/use-powershell-to-access-a-webservice/</link>
+      <link>https://bigsmooth68.github.io/posts/use-powershell-to-access-a-webservice/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/use-powershell-to-access-a-webservice/</guid>
+      <guid>https://bigsmooth68.github.io/posts/use-powershell-to-access-a-webservice/</guid>
       <description>Ten monthes ago, when I started to work for DBI at a customer site, I had to work on groups managing the server accesses. The information can be queried via a simple web site: enter a server and it provides(…)</description>
     </item>
     <item>
       <title>Convert a WebLogic Cluster from configured to dynamic</title>
-      <link>http://localhost:1313/posts/convert-weblogic-cluster-configured-dynamic/</link>
+      <link>https://bigsmooth68.github.io/posts/convert-weblogic-cluster-configured-dynamic/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/convert-weblogic-cluster-configured-dynamic/</guid>
+      <guid>https://bigsmooth68.github.io/posts/convert-weblogic-cluster-configured-dynamic/</guid>
       <description>Unless the servers in cluster are not symmetric, which is not recommended anyway, dynamic cluster have many advantages against configured cluster: Ensure Cluster Member Uniformity Easily add new servers to manage more traffic Automatically adapt to load to add/remove managed(…)</description>
     </item>
   </channel>
