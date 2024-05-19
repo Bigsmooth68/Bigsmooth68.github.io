@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on My blog</title>
-    <link>https://bigsmooth68.github.io/about/</link>
-    <description>Recent content in About on My blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>About on </title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in About on </description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Mar 2023 16:56:31 +0100</lastBuildDate><atom:link href="https://bigsmooth68.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://bigsmooth68.github.io/about/about.fr/</link>
-      <pubDate>Sat, 25 Mar 2023 16:56:31 +0100</pubDate>
-      
-      <guid>https://bigsmooth68.github.io/about/about.fr/</guid>
-      <description>Bienvenue sur mon blog.
-Il traitera un peu à tout, des sujets que j&amp;rsquo;ai envie de partager, des chaînes youtube que je suis, &amp;hellip;
-Je ne souhaitais pas faire un blog classique à la façon WordProcess et je suis tombé sur ce principe très intéressant: Static site generator.
-Hugofait parti de cette mouvance.
-Cela libère aussi des difficultés possibles de l&amp;rsquo;hébergement comme le site est directement sur github.</description>
-    </item>
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
