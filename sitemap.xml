@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bigsmooth68.github.io/posts/cities-i-ve-visited/</loc>
+    <lastmod>2023-05-14T15:38:04+02:00</lastmod>
+  </url><url>
     <loc>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -151,9 +154,6 @@
   </url><url>
     <loc>https://bigsmooth68.github.io/posts/predict-the-future-with-prometheus/</loc>
     <lastmod>2023-05-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bigsmooth68.github.io/posts/cities-i-ve-visited/</loc>
-    <lastmod>2023-05-14T15:38:04+02:00</lastmod>
   </url><url>
     <loc>https://bigsmooth68.github.io/tags/dynatrace/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
