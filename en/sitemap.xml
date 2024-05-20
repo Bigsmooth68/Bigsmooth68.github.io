@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bigsmooth68.github.io/en/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://bigsmooth68.github.io/"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://bigsmooth68.github.io/en/"
-                />
-  </url><url>
-    <loc>https://bigsmooth68.github.io/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://bigsmooth68.github.io/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bigsmooth68.github.io/en/series/"
+                hreflang="en-US"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://bigsmooth68.github.io/en/tags/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://bigsmooth68.github.io/tags/"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://bigsmooth68.github.io/en/tags/"
+                hreflang="en-US"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
