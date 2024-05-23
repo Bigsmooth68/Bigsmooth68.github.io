@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kafka on bigsmooth68.github.io</title>
-    <link>https://bigsmooth68.github.io/tags/kafka/</link>
+    <link>http://localhost:1313/tags/kafka/</link>
     <description>Recent content in Kafka on bigsmooth68.github.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bigsmooth68.github.io/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kafka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Kafka and ksqlDB</title>
-      <link>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</link>
+      <link>http://localhost:1313/posts/apache-kafka-and-ksqldb/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</guid>
+      <guid>http://localhost:1313/posts/apache-kafka-and-ksqldb/</guid>
       <description>After two introduction blogs on Apache Kafka (ie. Apache Kafka Concepts by Example and Apache Kafka Consumer Group), it is time to discover the wide ecosystem around it. In this blog post,(…)</description>
     </item>
     <item>
       <title>Apache Kafka Consumer Group</title>
-      <link>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</link>
+      <link>http://localhost:1313/posts/apache-kafka-consumer-group/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</guid>
+      <guid>http://localhost:1313/posts/apache-kafka-consumer-group/</guid>
       <description>On producer side, messages are load balanced across partition based on hashed key. On the consumer side, to ensure that each message is processed by only one consumer within the group, allowing for load balancing, fault tolerance, and efficient utilization(…)</description>
     </item>
     <item>
       <title>Apache Kafka Concepts by Example</title>
-      <link>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</link>
+      <link>http://localhost:1313/posts/apache-kafka-concepts-by-example/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</guid>
+      <guid>http://localhost:1313/posts/apache-kafka-concepts-by-example/</guid>
       <description>In this blog post, I will demonstrate the first few concepts to understand when you want to learn Apache Kafka. Documentation explains it well, but I find that concrete examples give a better feeling of the(…)</description>
     </item>
     <item>
       <title>Kafka Monitoring in Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</link>
+      <link>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</guid>
+      <guid>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</guid>
       <description>Enabling monitoring on Kafka with Prometheus/Grafana is not more difficult than others exporters I configured in my previous monitoring in Prometheus blogs. Let’s see this together. JMX Exporter vs Kafka Exporter As Kafka is a Java based application, it would(…)</description>
     </item>
     <item>
       <title>Ansible Driven Automation and Kafka</title>
-      <link>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</link>
+      <link>http://localhost:1313/posts/ansible-driven-automation-and-kafka/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</guid>
+      <guid>http://localhost:1313/posts/ansible-driven-automation-and-kafka/</guid>
       <description>I will add another example of what can be done with Ansible Driven Automation by interfacing it with Kafka. For those who wonder what Event-Driven Ansible is have a look at my previous blog about it.</description>
     </item>
   </channel>

@@ -39,7 +39,7 @@
   style="--bg: #faf8f1"
   lang="en"
 >
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta
@@ -67,14 +67,14 @@
   
   
   
-  <link rel="preload stylesheet" as="style" href="https://bigsmooth68.github.io/main.min.css" />
+  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
 
   
   
   
   
   
-  <link rel="preload" as="image" href="https://bigsmooth68.github.io/theme.png" />
+  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
 
   
   
@@ -84,9 +84,9 @@
 
   
   
-  <link rel="preload" as="image" href="https://bigsmooth68.github.io/github.svg" />
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
   
-  <link rel="preload" as="image" href="https://bigsmooth68.github.io/linkedin.svg" />
+  <link rel="preload" as="image" href="http://localhost:1313/linkedin.svg" />
   
   
 
@@ -94,7 +94,7 @@
   
   <script
     defer
-    src="https://bigsmooth68.github.io/highlight.min.js"
+    src="http://localhost:1313/highlight.min.js"
     onload="hljs.initHighlightingOnLoad();"
   ></script>
   
@@ -104,66 +104,13 @@
   
 
   
-  <link rel="icon" href="https://bigsmooth68.github.io/favicon.ico" />
-  <link rel="apple-touch-icon" href="https://bigsmooth68.github.io/apple-touch-icon.png" />
+  <link rel="icon" href="http://localhost:1313/favicon.ico" />
+  <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
 
   
   <meta name="generator" content="Hugo 0.126.1">
 
   
-  
-  
-  
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-MHWFFCJS0T"></script>
-      <script>
-        var doNotTrack = false;
-        if ( true ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-MHWFFCJS0T');
-        }
-      </script>
-    
-  
-
-
-  
-  
-  <meta itemprop="name" content="Prometheus vs VictoriaMetrics">
-  <meta itemprop="description" content="As I went through many monitoring tools recently, I found that Prometheus is a de facto standard. At least from the way it is working. It is even a so strong standard that other Time Series Database (TSDB), like(…)">
-  <meta itemprop="datePublished" content="2023-06-06T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2023-06-06T00:00:00+00:00">
-  <meta itemprop="wordCount" content="39">
-  <meta itemprop="keywords" content="Dbi-Services">
-  
-  <meta property="og:url" content="https://bigsmooth68.github.io/posts/prometheus-vs-victoriametrics/">
-  <meta property="og:site_name" content="bigsmooth68.github.io">
-  <meta property="og:title" content="Prometheus vs VictoriaMetrics">
-  <meta property="og:description" content="As I went through many monitoring tools recently, I found that Prometheus is a de facto standard. At least from the way it is working. It is even a so strong standard that other Time Series Database (TSDB), like(…)">
-  <meta property="og:locale" content="en">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2023-06-06T00:00:00+00:00">
-    <meta property="article:modified_time" content="2023-06-06T00:00:00+00:00">
-    <meta property="article:tag" content="Dbi-Services">
-
-  
-  
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Prometheus vs VictoriaMetrics">
-  <meta name="twitter:description" content="As I went through many monitoring tools recently, I found that Prometheus is a de facto standard. At least from the way it is working. It is even a so strong standard that other Time Series Database (TSDB), like(…)">
-
-  
-  
-  
-  <link rel="canonical" href="https://bigsmooth68.github.io/posts/prometheus-vs-victoriametrics/" />
   
   
 </head>
@@ -173,7 +120,7 @@
   <div class="relative z-50 mr-auto flex items-center">
     <a
       class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="https://bigsmooth68.github.io/"
+      href="http://localhost:1313/"
       >bigsmooth68.github.io</a
     >
     <div
@@ -317,7 +264,7 @@
      
     <a
       class="mb-1.5 mr-1.5 rounded-lg bg-black/[3%] px-5 py-1.5 no-underline dark:bg-white/[8%]"
-      href="https://bigsmooth68.github.io/tags/dbi-services"
+      href="http://localhost:1313/tags/dbi-services"
       >dbi-services</a
     >
     
@@ -332,21 +279,18 @@
     
     <a
       class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="https://bigsmooth68.github.io/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/"
+      href="http://localhost:1313/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/"
       ><span class="mr-1.5">←</span><span>Migrating Monitoring Data from Prometheus to VictoriaMetrics</span></a
     >
     
     
     <a
       class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="https://bigsmooth68.github.io/posts/snmp-monitoring-with-prometheus/"
+      href="http://localhost:1313/posts/snmp-monitoring-with-prometheus/"
       ><span>SNMP Monitoring with Prometheus</span><span class="ml-1.5">→</span></a
     >
     
   </nav>
-  
-  
-
   
   
 
@@ -367,7 +311,7 @@
 >
   <div class="mr-auto">
     &copy; 2024
-    <a class="link" href="https://bigsmooth68.github.io/">bigsmooth68.github.io</a>
+    <a class="link" href="http://localhost:1313/">bigsmooth68.github.io</a>
   </div>
   <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
     >Powered by Hugo️️</a

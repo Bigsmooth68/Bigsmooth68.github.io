@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monitoring on bigsmooth68.github.io</title>
-    <link>https://bigsmooth68.github.io/tags/monitoring/</link>
+    <link>http://localhost:1313/tags/monitoring/</link>
     <description>Recent content in Monitoring on bigsmooth68.github.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bigsmooth68.github.io/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache httpd Tuning and Monitoring with Zabbix</title>
-      <link>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</link>
+      <link>http://localhost:1313/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</guid>
+      <guid>http://localhost:1313/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</guid>
       <description>There is no tuning possible without a proper monitoring in place to measure the impact of any changes. Thus, before trying to tune an Apache httpd server, I will explain how to monitor it with Zabbix. Setup Zabbix Monitoring Apache(…)</description>
     </item>
     <item>
       <title>Zabbix Web Monitoring</title>
-      <link>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</link>
+      <link>http://localhost:1313/posts/zabbix-web-monitoring/</link>
       <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</guid>
+      <guid>http://localhost:1313/posts/zabbix-web-monitoring/</guid>
       <description>Zabbix allows to create complex web monitoring scenario and gather metrics about it. In this blog post, we will see how to assess that we are able to login to M-Files web application and, to not(…)</description>
     </item>
     <item>
       <title>Apache Tomcat Monitoring in Prometheus without JMX</title>
-      <link>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</link>
+      <link>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</guid>
+      <guid>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus-without-jmx/</guid>
       <description>In a previous blog post, I explained how to monitor Apache Tomcat with Prometheus with help of JMX exporter. It is not always desirable to use JMX as it requires: An additional service setup (which runs(…)</description>
     </item>
     <item>
       <title>AWS Monitoring with Zabbix</title>
-      <link>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</link>
+      <link>http://localhost:1313/posts/aws-monitoring-with-zabbix/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</guid>
+      <guid>http://localhost:1313/posts/aws-monitoring-with-zabbix/</guid>
       <description>Until recently, I did not notice that Zabbix templates can also include Hosts prototypes under (Low Level) Discovery Rules. I wondered why, so I decided to look at pre-existing templates to check what is the aim for it. I chose(…)</description>
     </item>
     <item>
       <title>Modifying a Zabbix Template for WildFly JVM Monitoring</title>
-      <link>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</link>
+      <link>http://localhost:1313/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</guid>
+      <guid>http://localhost:1313/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</guid>
       <description>Zabbix provides templates easy to setup which do not require any external scripts. As an example, you can check one of my previous blog post on the subject where I monitored a WildFly server. These one(…)</description>
     </item>
     <item>
       <title>Monitoring Scripts with Zabbix</title>
-      <link>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</link>
+      <link>http://localhost:1313/posts/monitoring-scripts-with-zabbix/</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</guid>
+      <guid>http://localhost:1313/posts/monitoring-scripts-with-zabbix/</guid>
       <description>In a similar manner as in this Prometheus blog, you might want to monitor scripts which are short living or do not fit the pull-model (Server pulling from agent). Thus, it can use the push model(…)</description>
     </item>
     <item>
       <title>Defining Custom Monitoring Metric in Zabbix</title>
-      <link>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</link>
+      <link>http://localhost:1313/posts/zabbix-defining-custom-monitoring-metric/</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</guid>
+      <guid>http://localhost:1313/posts/zabbix-defining-custom-monitoring-metric/</guid>
       <description>In this blog, we will see how to add custom monitoring metric into Zabbix and, more precisely, get Java Virtual Machine (JVM) garbage collector heap statics. jstat OpenJDK includes an interesting tool to monitor a JVM: jstat. Let’s see what(…)</description>
     </item>
     <item>
       <title>Oracle Database monitoring with Zabbix</title>
-      <link>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</link>
+      <link>http://localhost:1313/posts/oracle-database-monitoring-with-zabbix/</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</guid>
+      <guid>http://localhost:1313/posts/oracle-database-monitoring-with-zabbix/</guid>
       <description>Zabbix comes with an Oracle Database monitoring template out-of-the-box, so it should not be too complicated to integrate one server. Nevertheless, I faced a few issues while trying to setup one and I will detail these steps below. Agent Installation(…)</description>
     </item>
     <item>
       <title>Migrating Monitoring Data from Prometheus to VictoriaMetrics</title>
-      <link>https://bigsmooth68.github.io/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</link>
+      <link>http://localhost:1313/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</guid>
+      <guid>http://localhost:1313/posts/migrating-monitoring-data-from-prometheus-to-victoriametrics/</guid>
       <description>Now that we know the advantages of VictoriaMetrics over Prometheus (see my previous blog post), we have to find a way to migrate data between the two. If you have the default retention set in Prometheus(…)</description>
     </item>
     <item>
       <title>SNMP Monitoring with Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/snmp-monitoring-with-prometheus/</link>
+      <link>http://localhost:1313/posts/snmp-monitoring-with-prometheus/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/snmp-monitoring-with-prometheus/</guid>
+      <guid>http://localhost:1313/posts/snmp-monitoring-with-prometheus/</guid>
       <description>It is not always possible to install an exporter on the server or equipment you must monitor, either because you don’t administrate that server, or it cannot run an exporter (ie. device with limited resources). For that purpose, two exporters(…)</description>
     </item>
     <item>
       <title>WildFly monitoring in Zabbix</title>
-      <link>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</link>
+      <link>http://localhost:1313/posts/wildfly-monitoring-in-zabbix/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</guid>
+      <guid>http://localhost:1313/posts/wildfly-monitoring-in-zabbix/</guid>
       <description>Zabbix is a fully featured open-source monitoring solution. I wanted to evaluate how easy it is to monitor an application server like WildFly. Server Installation First component to install is the server which also requires a(…)</description>
     </item>
     <item>
       <title>Monitoring Short Living Processes with Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/monitoring-short-living-processes-with-prometheus/</link>
+      <link>http://localhost:1313/posts/monitoring-short-living-processes-with-prometheus/</link>
       <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/monitoring-short-living-processes-with-prometheus/</guid>
+      <guid>http://localhost:1313/posts/monitoring-short-living-processes-with-prometheus/</guid>
       <description>With the way Prometheus is gathering metrics, pull, it is not possible to get metrics from short living processes like batch jobs as: batch jobs can be shorter than scrap_interval batch timings and scrap_interval are not aligned In this blog,(…)</description>
     </item>
     <item>
       <title>Kafka Monitoring in Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</link>
+      <link>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</guid>
+      <guid>http://localhost:1313/posts/kafka-monitoring-in-prometheus/</guid>
       <description>Enabling monitoring on Kafka with Prometheus/Grafana is not more difficult than others exporters I configured in my previous monitoring in Prometheus blogs. Let’s see this together. JMX Exporter vs Kafka Exporter As Kafka is a Java based application, it would(…)</description>
     </item>
     <item>
       <title>Observability vs Monitoring</title>
-      <link>https://bigsmooth68.github.io/posts/observability-vs-monitoring/</link>
+      <link>http://localhost:1313/posts/observability-vs-monitoring/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/observability-vs-monitoring/</guid>
+      <guid>http://localhost:1313/posts/observability-vs-monitoring/</guid>
       <description>Both words, observability and monitoring, are often used interchangeably and without taking care of the difference. Monitoring Monitoring is alerting based on known, predefined metrics and log patterns. Events Examples of events are: Trigger a minor event when CPU is(…)</description>
     </item>
     <item>
       <title>Apache Tomcat Monitoring in Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus/</link>
+      <link>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus/</link>
       <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/apache-tomcat-monitoring-in-prometheus/</guid>
+      <guid>http://localhost:1313/posts/apache-tomcat-monitoring-in-prometheus/</guid>
       <description>To monitor Apache Tomcat, the most convenient solution is to use JMX Exporter provided by Prometheus git repository. Enable JMX Remote To enable JMX Remote, I will simply add the following line(…)</description>
     </item>
     <item>
       <title>Nginx Monitoring in Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/nginx-monitoring-in-prometheus/</link>
+      <link>http://localhost:1313/posts/nginx-monitoring-in-prometheus/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/nginx-monitoring-in-prometheus/</guid>
+      <guid>http://localhost:1313/posts/nginx-monitoring-in-prometheus/</guid>
       <description>Following my two previous blogs about monitoring, I will now focus on Nginx. Nginx Inc provides an exporter with it’s code: https://github.com/nginxinc/nginx-prometheus-exporter As Nginx cannot run a web application as WebLogic or(…)</description>
     </item>
     <item>
       <title>WebLogic Monitoring in Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/weblogic-monitoring-in-prometheus/</link>
+      <link>http://localhost:1313/posts/weblogic-monitoring-in-prometheus/</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/weblogic-monitoring-in-prometheus/</guid>
+      <guid>http://localhost:1313/posts/weblogic-monitoring-in-prometheus/</guid>
       <description>In this blog, I will explain how to enable WebLogic monitoring in Prometheus as I did for WildFly in my previous blog. WebLogic Monitoring Exporter Oracle is providing, as open source, a(…)</description>
     </item>
     <item>
       <title>WildFly monitoring in Prometheus</title>
-      <link>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-prometheus/</link>
+      <link>http://localhost:1313/posts/wildfly-monitoring-in-prometheus/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-prometheus/</guid>
+      <guid>http://localhost:1313/posts/wildfly-monitoring-in-prometheus/</guid>
       <description>In this blog, we will see how easy it is to add a WildFly server into a Prometheus setup. Metrics Fortunately, WildFly comes with a integrated metrics subsystem which is included in all out-of-the-box profiles. In the management console, we(…)</description>
     </item>
   </channel>
