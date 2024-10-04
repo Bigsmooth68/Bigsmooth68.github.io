@@ -13,35 +13,35 @@
       <link>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://bigsmooth68.github.io/posts/apache-kafka-and-ksqldb/</guid>
-      <description>After two introduction blogs on Apache Kafka (ie. Apache Kafka Concepts by Example and Apache Kafka Consumer Group), it is time to discover the wide ecosystem around it. In this blog post,(…)</description>
+      <description>&lt;p&gt;After two introduction blogs on Apache Kafka (ie. Apache Kafka Concepts by Example and Apache Kafka Consumer Group), it is time to discover the wide ecosystem around it. In this blog post,(…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apache Kafka Consumer Group</title>
       <link>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://bigsmooth68.github.io/posts/apache-kafka-consumer-group/</guid>
-      <description>On producer side, messages are load balanced across partition based on hashed key. On the consumer side, to ensure that each message is processed by only one consumer within the group, allowing for load balancing, fault tolerance, and efficient utilization(…)</description>
+      <description>&lt;p&gt;On producer side, messages are load balanced across partition based on hashed key. On the consumer side, to ensure that each message is processed by only one consumer within the group, allowing for load balancing, fault tolerance, and efficient utilization(…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apache Kafka Concepts by Example</title>
       <link>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://bigsmooth68.github.io/posts/apache-kafka-concepts-by-example/</guid>
-      <description>In this blog post, I will demonstrate the first few concepts to understand when you want to learn Apache Kafka. Documentation explains it well, but I find that concrete examples give a better feeling of the(…)</description>
+      <description>&lt;p&gt;In this blog post, I will demonstrate the first few concepts to understand when you want to learn Apache Kafka. Documentation explains it well, but I find that concrete examples give a better feeling of the(…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kafka Monitoring in Prometheus</title>
       <link>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://bigsmooth68.github.io/posts/kafka-monitoring-in-prometheus/</guid>
-      <description>Enabling monitoring on Kafka with Prometheus/Grafana is not more difficult than others exporters I configured in my previous monitoring in Prometheus blogs. Let’s see this together. JMX Exporter vs Kafka Exporter As Kafka is a Java based application, it would(…)</description>
+      <description>&lt;p&gt;Enabling monitoring on Kafka with Prometheus/Grafana is not more difficult than others exporters I configured in my previous monitoring in Prometheus blogs. Let’s see this together. JMX Exporter vs Kafka Exporter As Kafka is a Java based application, it would(…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ansible Driven Automation and Kafka</title>
       <link>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</guid>
-      <description>I will add another example of what can be done with Ansible Driven Automation by interfacing it with Kafka. For those who wonder what Event-Driven Ansible is have a look at my previous blog about it.</description>
+      <description>&lt;p&gt;I will add another example of what can be done with Ansible Driven Automation by interfacing it with Kafka. For those who wonder what Event-Driven Ansible is have a look at my previous blog about it.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
