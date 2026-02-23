@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dynatrace on bigsmooth68.github.io</title>
-    <link>https://bigsmooth68.github.io/tags/dynatrace/</link>
+    <link>http://localhost:1313/tags/dynatrace/</link>
     <description>Recent content in Dynatrace on bigsmooth68.github.io</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bigsmooth68.github.io/tags/dynatrace/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/dynatrace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grail and Dynatrace Query Language</title>
-      <link>https://bigsmooth68.github.io/posts/grail-and-dynatrace-query-language/</link>
+      <link>http://localhost:1313/posts/grail-and-dynatrace-query-language/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/grail-and-dynatrace-query-language/</guid>
+      <guid>http://localhost:1313/posts/grail-and-dynatrace-query-language/</guid>
       <description>&lt;p&gt;In my last dynatrace blog, I presented how to go from logs to dashboard. This could look like a complex process for such a simple task. Moreover, this does not work on historical data as metric(…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>WildFly: From Log to Dashboard with dynatrace</title>
-      <link>https://bigsmooth68.github.io/posts/wildfly-from-log-to-dashboard-with-dynatrace/</link>
+      <link>http://localhost:1313/posts/wildfly-from-log-to-dashboard-with-dynatrace/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/wildfly-from-log-to-dashboard-with-dynatrace/</guid>
+      <guid>http://localhost:1313/posts/wildfly-from-log-to-dashboard-with-dynatrace/</guid>
       <description>&lt;p&gt;In my previous dynatrace blog, I explained how to deploy OneAgent on a Virtual Machine which hosts WildFly. In this one, I will tell you: How to enable log centralization Extract an attribute from log Convert(…)&lt;/p&gt;</description>
     </item>
     <item>
       <title>dynatrace First Steps</title>
-      <link>https://bigsmooth68.github.io/posts/dynatrace-first-steps/</link>
+      <link>http://localhost:1313/posts/dynatrace-first-steps/</link>
       <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://bigsmooth68.github.io/posts/dynatrace-first-steps/</guid>
+      <guid>http://localhost:1313/posts/dynatrace-first-steps/</guid>
       <description>&lt;p&gt;In this blog, I will tell you how I setup my first agent, on a YaK deployed server. Of course, I will use YaK to deploy it. What is dynatrace? dynatrace is an observability platform which covers from infrastructure monitoring(…)&lt;/p&gt;</description>
     </item>
   </channel>
