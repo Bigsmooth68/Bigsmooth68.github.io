@@ -2,7 +2,6 @@
 title: "Victoriametrics LinkedIn Posts"
 date: 2024-10-04T08:03:24+02:00
 tags: ['monitoring']
-author: "Olivier Spiesser"
 ---
 I had the opportunity to write blogs on many subjects I liked. One of them was monitoring.
 

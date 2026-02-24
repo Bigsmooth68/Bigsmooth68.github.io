@@ -2,7 +2,6 @@
 title: "Créer un Blog sur github.io"
 date: 2023-03-25T16:55:39+01:00
 tags: ["Hugo","SSG","Tutoriel"]
-author: "Olivier Spiesser"
 ---
 
 Pour ce premier post, je vais expliquer comment j'ai mis en place ce blog sur gitpage.

@@ -12,12 +12,12 @@
   <!-- Meta -->
   <meta name="theme-color" />
 
-  <!-- Author -->
-  {{ $site_author := or params.author }}
+  <!-- Author (ne dépend pas de site.Author) -->
+  {{ $site_author := or site.Params.name site.Title }}
   <!---->
   {{ if eq .Kind "page" }}
   <meta name="description" content="{{ .Summary }}" />
-  <meta name="author" content="{{ $site_author }}" />
+  <meta name="author" content="{{ or .Params.author $site_author }}" />
   {{ else }}
   <!---->
   <meta

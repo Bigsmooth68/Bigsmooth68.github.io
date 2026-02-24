@@ -1,7 +1,6 @@
 baseURL = "https://bigsmooth68.github.io/"
 name = "bigsmooth68.github.io"
 title = "bigsmooth68.github.io"
-author = "Olivier Spiesser"
 theme = "paper"
 paginate = 7
 languageCode = "en"
@@ -11,7 +10,10 @@ DefaultContentLanguage = "en"
   github = 'bigsmooth68'
   linkedin = 'olivierspiesser'
   name = 'Olivier Spiesser'
+  author = "Olivier Spiesser"
   bio = 'My blogs posted on dbi services blogs site'
+  description = 'Blog technique — monitoring, Zabbix, Ansible, Kafka et plus.'
+  color = 'light'
 
 [menu]
   [[menu.main]]

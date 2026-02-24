@@ -61,7 +61,7 @@ def getBlogs(url,destination):
 			buildStr += f'tags: {tags}\n'
 			# buildStr += f'params:\n'
 			# buildStr += f'  dbiblogtitle: { sanitized_title }\n'
-			buildStr += 'author: "Olivier Spiesser"\n'
+			# buildStr += 'author : "Olivier Spiesser"\n'
 			buildStr += '---\n'
 			buildStr += summary
 

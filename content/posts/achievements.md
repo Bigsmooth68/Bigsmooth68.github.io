@@ -1,7 +1,7 @@
 ---
 title: "Achievements"
 date: 2024-05-23T21:49:40+02:00
-author: "Olivier Spiesser"
+
 language: "en"
 ---
 
