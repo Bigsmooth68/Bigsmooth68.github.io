@@ -1,0 +1,43 @@
+baseURL = "https://bigsmooth68.github.io/"
+name = "bigsmooth68.github.io"
+title = "bigsmooth68.github.io"
+author = "Olivier Spiesser"
+theme = "paper"
+paginate = 7
+languageCode = "en"
+DefaultContentLanguage = "en"
+
+[params]
+  github = 'bigsmooth68'
+  linkedin = 'olivierspiesser'
+  name = 'Olivier Spiesser'
+  bio = 'My blogs posted on dbi services blogs site'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-MHWFFCJS0T'
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
+
+# config.toml
+
+# Enable taxonomies
+[taxonomies]
+  tag = "tags"
+
+# URL structure for taxonomy term pages
+[permalinkBaseName]
+  tag = "/tags"
