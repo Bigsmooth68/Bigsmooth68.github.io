@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zabbix on bigsmooth68.github.io</title>
+    <link>https://bigsmooth68.github.io/tags/zabbix/</link>
+    <description>Recent content in Zabbix on bigsmooth68.github.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bigsmooth68.github.io/tags/zabbix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitor Elasticsearch Cluster with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/monitor-elasticsearch-cluster-with-zabbix/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/monitor-elasticsearch-cluster-with-zabbix/</guid>
+      <description>&lt;p&gt;Setting up Zabbix monitoring over an Elasticsearch cluster is quiet easy as it does not require an agent install. As a matter a fact, the official template uses the Elastic REST API. Zabbix server itself will(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apache httpd Tuning and Monitoring with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/apache-httpd-tuning-and-monitoring-with-zabbix/</guid>
+      <description>&lt;p&gt;There is no tuning possible without a proper monitoring in place to measure the impact of any changes. Thus, before trying to tune an Apache httpd server, I will explain how to monitor it with Zabbix. Setup Zabbix Monitoring Apache(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitor Kubernetes with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/monitor-kubernetes-with-zabbix/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/monitor-kubernetes-with-zabbix/</guid>
+      <description>&lt;p&gt;Zabbix might not be the first monitoring tool that comes in mind when you want to monitor a Kubernetes cluster (Did you say Prometheus? 🙂 ). Nevertheless, as an open-source project, Zabbix have affinities with others open-source projects. In this(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configure Zabbix with Ansible</title>
+      <link>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</guid>
+      <description>&lt;p&gt;Besides the ability to setup your Zabbix server, proxy and agents, the Ansible collection for Zabbix (ie. community.zabbix) also allows to configure every aspects of your Zabbix system. From hosts to users,(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Web Monitoring</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-web-monitoring/</guid>
+      <description>&lt;p&gt;Zabbix allows to create complex web monitoring scenario and gather metrics about it. In this blog post, we will see how to assess that we are able to login to M-Files web application and, to not(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitor M-Files with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/monitor-m-files-with-zabbix/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/monitor-m-files-with-zabbix/</guid>
+      <description>&lt;p&gt;So far, for Zabbix monitoring, I only covered Linux based servers. We can put aside MS-SQL which was monitored via ODBC, thus without any Zabbix agent involved. In this blog post, I will explain you how(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix in the Middle of Prometheus and Grafana</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-in-the-middle-of-prometheus-and-grafana/</guid>
+      <description>&lt;p&gt;In this blog post, I will show you how to gather metrics from a OpenTelemetry interface from a Zabbix server and how to display Zabbix data in Grafana. Why Should I do that? First, you might wonder why should you(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitor Microsoft SQL Server with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/monitor-microsoft-sql-server-with-zabbix/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/monitor-microsoft-sql-server-with-zabbix/</guid>
+      <description>&lt;p&gt;In this blog post, we will quickly see what is required to monitor a Microsoft SQL Server with Zabbix. Agent Setup Agent setup is not required by MSSQL by ODBC template; thus this step can be skipped. Setup Monitoring Account(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitor Alfresco with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/monitor-alfresco-with-zabbix/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/monitor-alfresco-with-zabbix/</guid>
+      <description>&lt;p&gt;In this blog post, I will share a few obstacles I have encountered while trying to monitor a complete Alfresco setup with all these components. As an overview, here are the templates I will use: Apache ActiveMQ by JMX Apache(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Monitoring with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/aws-monitoring-with-zabbix/</guid>
+      <description>&lt;p&gt;Until recently, I did not notice that Zabbix templates can also include Hosts prototypes under (Low Level) Discovery Rules. I wondered why, so I decided to look at pre-existing templates to check what is the aim for it. I chose(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keep Your Software’s Up to Date with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/keep-your-softwares-up-to-date-with-zabbix/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/keep-your-softwares-up-to-date-with-zabbix/</guid>
+      <description>&lt;p&gt;Monitoring tools are increasingly going beyond their usual perimeter of just monitoring metrics. Modern tools, like Zabbix, can watch files for any change and raise warning whenever it occurs. An example I found the “Linux by Zabbix agent” template: Computing(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modifying a Zabbix Template for WildFly JVM Monitoring</title>
+      <link>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/modifying-a-zabbix-template-for-wildfly-jvm-monitoring/</guid>
+      <description>&lt;p&gt;Zabbix provides templates easy to setup which do not require any external scripts. As an example, you can check one of my previous blog post on the subject where I monitored a WildFly server. These one(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Adapt Zabbix to Your Needs</title>
+      <link>https://bigsmooth68.github.io/posts/adapt-zabbix-to-your-needs/</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/adapt-zabbix-to-your-needs/</guid>
+      <description>&lt;p&gt;Zabbix comes with an long list of smart and customizable templates (more than 270). In this blog post, I will explain how to customize these templates and adapt them to your environment’s needs. Macro The first level of customization is(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Report Scheduler Setup and Troubleshooting</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-report-scheduler-setup-and-troubleshooting/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-report-scheduler-setup-and-troubleshooting/</guid>
+      <description>&lt;p&gt;I wanted to test the Zabbix report scheduler. In this blog, I will explain how to do it as well as the different issues I faced (with cause and resolution, obviously 🙂 ). By the way, report scheduler is a(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Better Storage</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-better-storage/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-better-storage/</guid>
+      <description>&lt;p&gt;Among the different possibilities for Zabbix storage, one piqued my curiosity: TimescaleDB TimescaleDB is a time series database plugin for PostgreSQL. Joël Cattin already blogged about it here from a general point(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Configuration with API</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-configuration-with-api/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-configuration-with-api/</guid>
+      <description>&lt;p&gt;Despite the will of Zabbix to be as automated as possible, some tasks cannot be automated. Nevertheless, Zabbix offers an HTTP-based API which can be used programmatically. This opens the door to huge possibilities in terms of automation. JSON-RPC JSON-RPC(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Proxy</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-proxy/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-proxy/</guid>
+      <description>&lt;p&gt;Among the different packages provided by Zabbix, one arouse my curiosity: Proxy. What is its purpose? When to use it? How to install it? I will cover these in this blog post. Intention There are multiple reasons to use a(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monitoring Scripts with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/monitoring-scripts-with-zabbix/</guid>
+      <description>&lt;p&gt;In a similar manner as in this Prometheus blog, you might want to monitor scripts which are short living or do not fit the pull-model (Server pulling from agent). Thus, it can use the push model(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix from Problem to Remediation</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-from-problem-to-remediation/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-from-problem-to-remediation/</guid>
+      <description>&lt;p&gt;Until now, in my previous blog posts, we did not cover one of the main features of any monitoring platform: Alarming. In Zabbix, it is named triggers. Item and Trigger Trigger is based on an item calculation. Thus, the first(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Agent Automated Registration</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-agent-automated-registration/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-agent-automated-registration/</guid>
+      <description>&lt;p&gt;For those reading my blog posts regularly, you know I am an fan of automation. Declaring each host in Zabbix configuration manually is not an idea I like very much. Moreover, in dynamic environments which are moving a lot, manual(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zabbix Automatic Item Creation</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-automatic-item-creation/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-automatic-item-creation/</guid>
+      <description>&lt;p&gt;In my previous Zabbix blog post, I wanted to monitor JVM garbage collection metrics. As there are 17 items to create, I looked for a way to automatically create them. I found it 🙂 . In(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Defining Custom Monitoring Metric in Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/zabbix-defining-custom-monitoring-metric/</guid>
+      <description>&lt;p&gt;In this blog, we will see how to add custom monitoring metric into Zabbix and, more precisely, get Java Virtual Machine (JVM) garbage collector heap statics. jstat OpenJDK includes an interesting tool to monitor a JVM: jstat. Let’s see what(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oracle Database monitoring with Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/oracle-database-monitoring-with-zabbix/</guid>
+      <description>&lt;p&gt;Zabbix comes with an Oracle Database monitoring template out-of-the-box, so it should not be too complicated to integrate one server. Nevertheless, I faced a few issues while trying to setup one and I will detail these steps below. Agent Installation(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WildFly monitoring in Zabbix</title>
+      <link>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/wildfly-monitoring-in-zabbix/</guid>
+      <description>&lt;p&gt;Zabbix is a fully featured open-source monitoring solution. I wanted to evaluate how easy it is to monitor an application server like WildFly. Server Installation First component to install is the server which also requires a(…)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

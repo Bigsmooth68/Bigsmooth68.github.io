@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tags on bigsmooth68.github.io</title>
+    <link>https://bigsmooth68.github.io/tags/</link>
+    <description>Recent content in tags on bigsmooth68.github.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Oct 2024 08:03:24 +0200</lastBuildDate>
+    <atom:link href="https://bigsmooth68.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitoring</title>
+      <link>https://bigsmooth68.github.io/tags/monitoring/</link>
+      <pubDate>Fri, 04 Oct 2024 08:03:24 +0200</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dbi-Services</title>
+      <link>https://bigsmooth68.github.io/tags/dbi-services/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/dbi-services/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kafka</title>
+      <link>https://bigsmooth68.github.io/tags/kafka/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/kafka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zabbix</title>
+      <link>https://bigsmooth68.github.io/tags/zabbix/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/zabbix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ansible</title>
+      <link>https://bigsmooth68.github.io/tags/ansible/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/ansible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dynatrace</title>
+      <link>https://bigsmooth68.github.io/tags/dynatrace/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/dynatrace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://bigsmooth68.github.io/tags/about/</link>
+      <pubDate>Sat, 25 Mar 2023 16:56:31 +0100</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://bigsmooth68.github.io/tags/hugo/</link>
+      <pubDate>Sat, 25 Mar 2023 16:55:39 +0100</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSG</title>
+      <link>https://bigsmooth68.github.io/tags/ssg/</link>
+      <pubDate>Sat, 25 Mar 2023 16:55:39 +0100</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/ssg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutoriel</title>
+      <link>https://bigsmooth68.github.io/tags/tutoriel/</link>
+      <pubDate>Sat, 25 Mar 2023 16:55:39 +0100</pubDate>
+      <guid>https://bigsmooth68.github.io/tags/tutoriel/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ansible on bigsmooth68.github.io</title>
+    <link>https://bigsmooth68.github.io/tags/ansible/</link>
+    <description>Recent content in Ansible on bigsmooth68.github.io</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bigsmooth68.github.io/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faster Ansible</title>
+      <link>https://bigsmooth68.github.io/posts/faster-ansible/</link>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/faster-ansible/</guid>
+      <description>&lt;p&gt;Even if Ansible is powerful and flexible, it can be considered “slow”. It will be anyway faster, and more consistent, than doing the same steps manually. Nevertheless, we will experiment to make it even faster. I found few of them(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Configure Zabbix with Ansible</title>
+      <link>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/configure-zabbix-with-ansible/</guid>
+      <description>&lt;p&gt;Besides the ability to setup your Zabbix server, proxy and agents, the Ansible collection for Zabbix (ie. community.zabbix) also allows to configure every aspects of your Zabbix system. From hosts to users,(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YaK and Ansible Collection Integration</title>
+      <link>https://bigsmooth68.github.io/posts/yak-and-ansible-collection-integration/</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/yak-and-ansible-collection-integration/</guid>
+      <description>&lt;p&gt;In this blog, I will show you how easy it is to use an existing ansible collection with YaK. Ansible Galaxy Ansible Galaxy is a public repository of Ansible roles. For the sake of this demonstration,(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ansible Driven Automation and Kafka</title>
+      <link>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/ansible-driven-automation-and-kafka/</guid>
+      <description>&lt;p&gt;I will add another example of what can be done with Ansible Driven Automation by interfacing it with Kafka. For those who wonder what Event-Driven Ansible is have a look at my previous blog about it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ansible Event Driven Automation</title>
+      <link>https://bigsmooth68.github.io/posts/ansible-event-driven-automation/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/ansible-event-driven-automation/</guid>
+      <description>&lt;p&gt;In my previous blogs about Ansible, I covered a few use cases: Simple playbooks Use Ansible like a Programming Language REST API calls Gather(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Overcome jboss-cli Limitations with Ansible</title>
+      <link>https://bigsmooth68.github.io/posts/overcome-jboss-cli-limitations-with-ansible/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/overcome-jboss-cli-limitations-with-ansible/</guid>
+      <description>&lt;p&gt;The work on YaK JBoss/WildFly component helped me to improve my knowledge of Ansible, but not only. I also learned a lot on jboss-cli scripting and especially limitations that comes with it. For instance, followings are(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JBoss EAP (and WildFly) cli Scripting via Ansible</title>
+      <link>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/jboss-eap-and-wildfly-cli-scripting-via-ansible/</guid>
+      <description>&lt;p&gt;As I am working on a new YaK component to deploy a JBoss-EAP/WildFly server, I decided to configure it with help of jboss-cli.sh scripting tool instead of direct modification of xml files. The idea is to(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ansible: Imagination is the Limit</title>
+      <link>https://bigsmooth68.github.io/posts/ansible-imagination-is-the-limit/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/ansible-imagination-is-the-limit/</guid>
+      <description>&lt;p&gt;As you might know, I have discovered Ansible 1 year ago. Since then, I am not using for its main purpose as wikipedia says: Ansible is an open-source software provisioning, configuration management,(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Variable Precedence in Ansible?</title>
+      <link>https://bigsmooth68.github.io/posts/what-is-variable-precedence-in-ansible/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/what-is-variable-precedence-in-ansible/</guid>
+      <description>&lt;p&gt;In Ansible, definition of variable precedence is often overlooked. Despite what I wrote in my previous blog (Use Ansible like a Programming Language), Ansible is not exactly a programming language. There is a difference, especially on the(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ansible URI module and WebLogic REST API</title>
+      <link>https://bigsmooth68.github.io/posts/ansible-uri-module-and-weblogic-rest-api/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/ansible-uri-module-and-weblogic-rest-api/</guid>
+      <description>&lt;p&gt;How to use WebLogic REST API with Ansible URI module.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Use Ansible like a Programming Language</title>
+      <link>https://bigsmooth68.github.io/posts/use-ansible-like-a-programming-language/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/use-ansible-like-a-programming-language/</guid>
+      <description>&lt;p&gt;I did not intend to create a new blog on Ansible so fast, but here it comes. My previous blog on that topic was a first step in Ansible world. Now, it is time to use some of the(…)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Starting with Simple Ansible Playbooks</title>
+      <link>https://bigsmooth68.github.io/posts/starting-with-simple-ansible-playbooks/</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://bigsmooth68.github.io/posts/starting-with-simple-ansible-playbooks/</guid>
+      <description>&lt;p&gt;Creating simple ansible playbooks(…)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
