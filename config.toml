@@ -11,8 +11,8 @@ DefaultContentLanguage = "en"
   linkedin = 'olivierspiesser'
   name = 'Olivier Spiesser'
   author = "Olivier Spiesser"
-  bio = 'My blogs posted on dbi services blogs site'
-  description = 'Blog technique — monitoring, Zabbix, Ansible, Kafka et plus.'
+  bio = 'A list of my blogs posted on dbi services blogs site but not only ...'
+  description = 'Technical blogs about monitoring, Zabbix, Ansible, Kafka et plus.'
   color = 'light'
 
 [menu]
