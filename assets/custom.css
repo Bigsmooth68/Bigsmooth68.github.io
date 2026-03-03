@@ -108,6 +108,41 @@ section.relative:hover {
   box-shadow: var(--shadow-card);
 }
 
+/* Soulignement bleu des cartes d’articles, ajusté à l’intérieur des coins arrondis */
+.prose section.relative > a.absolute {
+  border-bottom: none !important;
+}
+
+.prose section.relative > a.absolute::after {
+  content: '';
+  position: absolute;
+  left: 1.5rem;
+  right: 1.5rem;
+  bottom: 0;
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    rgba(37, 99, 235, 0),
+    rgba(37, 99, 235, 1),
+    rgba(37, 99, 235, 0)
+  );
+  opacity: 0;
+  transition: opacity var(--transition-smooth);
+}
+
+.prose section.relative:hover > a.absolute::after {
+  opacity: 1;
+}
+
+.dark .prose section.relative > a.absolute::after {
+  background: linear-gradient(
+    to right,
+    rgba(59, 130, 246, 0),
+    rgba(59, 130, 246, 1),
+    rgba(59, 130, 246, 0)
+  );
+}
+
 /* Badge "Featured" */
 span.text-\[\#ff3b2d\] {
   color: var(--color-accent) !important;
