@@ -5,6 +5,8 @@ param(
 # Se placer à la racine du dépôt (là où se trouve ce script)
 Set-Location $PSScriptRoot
 
+hugo
+
 # 1) Commit du code source sur main (sans public)
 git switch main
 

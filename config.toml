@@ -27,7 +27,7 @@ unsafe = true
 
 [services]
   [services.googleAnalytics]
-    ID = 'G-MHWFFCJS0T'
+    ID = 'GTM-N5KBPLFT'
 
 [privacy]
   [privacy.googleAnalytics]
